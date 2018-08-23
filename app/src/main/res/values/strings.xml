@@ -4,7 +4,8 @@
     <string name="start_quiz">Start Quiz</string>
     <string name="high_score">Highscore: 0</string>
     <string name="current_score">Score: 0</string>
-    <string name="question_count">Question: 1/</string>
+    <string name="question_count">Question: </string>
+    <string name="slash_count">/</string>
     <string name="count_down">00:30</string>
     <string name="option_1">Option 1</string>
     <string name="option_2">Option 2</string>
@@ -17,6 +18,5 @@
     <string name="answer_correct3">Answer 3 is correct</string>
     <string name="next_question">Next</string>
     <string name="finish_game">Finish</string>
-
-
+    <string name="refresh_highscore">Refresh Highscore</string>
 </resources>

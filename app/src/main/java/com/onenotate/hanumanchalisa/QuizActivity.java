@@ -135,7 +135,7 @@ public class QuizActivity extends AppCompatActivity {
             rb3.setText(currentQuestion.getOption3());
 
             questionCounter++;
-            textViewQuestionCount.setText("Question: " + questionCounter + "/" + questionCountTotal);
+            textViewQuestionCount.setText((getResources().getString(R.string.question_count)) + questionCounter + getResources().getString(R.string.slash_count) + questionCountTotal);
             answered = false;
             buttonConfirmNext.setText(R.string.confirm_next);
 

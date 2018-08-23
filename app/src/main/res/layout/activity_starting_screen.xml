@@ -4,15 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorBackground"
+    android:background="@drawable/start_screen_background"
     android:padding="16dp"
     tools:context=".StartingScreenActivity">
 
     <TextView
+        android:id="@+id/text_view_play_and_learn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="10dp"
         android:text="@string/play_learn"
         android:textColor="@android:color/black"
         android:textSize="37sp" />
@@ -21,11 +22,30 @@
         android:id="@+id/text_view_highscore"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@id/button_start_quiz"
+        android:layout_below="@id/text_view_play_and_learn"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="32dp"
+        android:layout_marginTop="10dp"
         android:text="@string/high_score"
         android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/button_refresh_highscore"
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:layout_below="@id/text_view_highscore"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button_start_quiz_background"
+        android:text="@string/refresh_highscore"
+        android:textAllCaps="false" />
+
+    <Spinner
+        android:id="@+id/spinner_speed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@id/button_start_quiz"
+        android:layout_below="@id/spinner_difficulty"
+        android:layout_marginTop="15dp" />
 
     <Button
         android:id="@+id/button_start_quiz"
@@ -42,6 +62,6 @@
         android:layout_height="wrap_content"
         android:layout_alignStart="@id/button_start_quiz"
         android:layout_below="@id/button_start_quiz"
-        android:layout_marginTop="16dp" />
+        android:layout_marginTop="20dp" />
 
 </RelativeLayout>

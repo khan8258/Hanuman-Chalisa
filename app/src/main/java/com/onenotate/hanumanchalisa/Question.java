@@ -8,18 +8,18 @@ public class Question implements Parcelable {
     public static final String DIFFICULTY_MEDIUM = "Medium";
     public static final String DIFFICULTY_HARD = "Hard";
 
-    private String question;
-    private String option1;
-    private String option2;
-    private String option3;
+    private int question;
+    private int option1;
+    private int option2;
+    private int option3;
     private int answerNr;
     private String difficulty;
 
     public Question() {
     }
 
-    public Question(String question, String option1, String option2,
-                    String option3, int answerNr, String difficulty) {
+    public Question(int question, int option1, int option2,
+                    int option3, int answerNr, String difficulty) {
         this.question = question;
         this.option1 = option1;
         this.option2 = option2;
@@ -29,20 +29,20 @@ public class Question implements Parcelable {
     }
 
     protected Question(Parcel in) {
-        question = in.readString();
-        option1 = in.readString();
-        option2 = in.readString();
-        option3 = in.readString();
+        question = in.readInt();
+        option1 = in.readInt();
+        option2 = in.readInt();
+        option3 = in.readInt();
         answerNr = in.readInt();
         difficulty = in.readString();
     }
 
     @Override
     public void writeToParcel(Parcel dest, int flags) {
-        dest.writeString(question);
-        dest.writeString(option1);
-        dest.writeString(option2);
-        dest.writeString(option3);
+        dest.writeInt(question);
+        dest.writeInt(option1);
+        dest.writeInt(option2);
+        dest.writeInt(option3);
         dest.writeInt(answerNr);
         dest.writeString(difficulty);
     }
@@ -64,35 +64,35 @@ public class Question implements Parcelable {
         }
     };
 
-    public String getQuestion() {
+    public int getQuestion() {
         return question;
     }
 
-    public void setQuestion(String question) {
+    public void setQuestion(int question) {
         this.question = question;
     }
 
-    public String getOption1() {
+    public int getOption1() {
         return option1;
     }
 
-    public void setOption1(String option1) {
+    public void setOption1(int option1) {
         this.option1 = option1;
     }
 
-    public String getOption2() {
+    public int getOption2() {
         return option2;
     }
 
-    public void setOption2(String option2) {
+    public void setOption2(int option2) {
         this.option2 = option2;
     }
 
-    public String getOption3() {
+    public int getOption3() {
         return option3;
     }
 
-    public void setOption3(String option3) {
+    public void setOption3(int option3) {
         this.option3 = option3;
     }
 

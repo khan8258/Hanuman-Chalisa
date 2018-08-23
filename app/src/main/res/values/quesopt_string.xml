@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="doha_line1q1">______ Guru Charan Saroj Raj</string>
+    <string name="shree">Shree</string>
+    <string name="tiger">Tiger</string>
+    <string name="apple">Apple</string>
+
+    <string name="doha_line1q2">"Shree _____ Charan Saroj Raj"</string>
+    <string name="guru">Guru</string>
+    <string name="bear">Bear</string>
+    <string name="rose">Rose</string>
+
+    <string name="doha_line1q3">"Shree Guru _______ Saroj Raj"</string>
+    <string name="charan">Charan</string>
+    <string name="jaguar">Jaguar</string>
+    <string name="banana">Banana</string>
+
+    <string name="doha_line1q4">"Shree Guru Charan ______ Raj"</string>
+    <string name="saroj">Saroj</string>
+    <string name="shark">Shark</string>
+    <string name="melon">Melon</string>
+
+    <string name="doha_line1q5">"Shree Guru Charan Saroj ____"</string>
+    <string name="raj">Raj</string>
+    <string name="rat">Rat</string>
+    <string name="fig">Fig</string>
+
+
+
+</resources>
