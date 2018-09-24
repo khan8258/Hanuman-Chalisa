@@ -39,17 +39,6 @@ public class StartingScreenActivity extends AppCompatActivity {
 
         loadHighscore();
 
-        // Set button to refresh Highscore
-
-        Button buttonRefreshHighscore = findViewById(R.id.button_refresh_highscore);
-        buttonRefreshHighscore.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                refreshHighscore();
-                loadHighscore();
-            }
-        });
-
         // Set button and onClick Listener here
         Button buttonStartQuiz = findViewById(R.id.button_start_quiz);
         buttonStartQuiz.setOnClickListener(new View.OnClickListener() {
@@ -92,18 +81,6 @@ public class StartingScreenActivity extends AppCompatActivity {
 
     private void updateHighscore(int highscoreNew) {
         highscore = highscoreNew;
-        String message = getString(R.string.high_score);
-        message += highscore;
-        textViewHighscore.setText(message);
-
-        SharedPreferences prefs = getSharedPreferences(SHARED_PREFS, MODE_PRIVATE);
-        SharedPreferences.Editor editor = prefs.edit();
-        editor.putInt(KEY_HIGHSCORE, highscore);
-        editor.apply();
-    }
-
-    private void refreshHighscore() {
-        highscore = 0;
         String message = getString(R.string.high_score);
         message += highscore;
         textViewHighscore.setText(message);

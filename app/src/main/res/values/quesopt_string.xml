@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    // DOHA LINE N0 1.
+
     <string name="doha_line1q1">______ Guru Charan Saroj Raj</string>
     <string name="shree">Shree</string>
     <string name="tiger">Tiger</string>
@@ -25,6 +28,2267 @@
     <string name="rat">Rat</string>
     <string name="fig">Fig</string>
 
+    // DOHA LINE N0 2.
 
+    <string name="doha_line2q1">____ Mann Mukur Sudhaari</string>
+    <string name="nij">Nij</string>
+    <string name="ant">Ant</string>
+    <string name="log">Log</string>
+
+    <string name="doha_line2q2">"Nij _____ Mukur Sudhaari"</string>
+    <string name="mann">Mann</string>
+    <string name="fizz">Fizz</string>
+    <string name="jump">Jump</string>
+
+    <string name="doha_line2q3">"Nij Mann ______ Sudhaari"</string>
+    <string name="mukur">Mukur</string>
+    <string name="pizza">Pizza</string>
+    <string name="quick">Quick</string>
+
+    <string name="doha_line2q4">"Nij Mann Mukur _________"</string>
+    <string name="sudhaari">Sudhaari</string>
+    <string name="cucumber">Cucumber</string>
+    <string name="mushroom">Mushroom</string>
+
+    // DOHA LINE N0 3.
+
+    <string name="doha_line3q1">"_______ Raghubar Bimal Jasu"</string>
+    <string name="barnau">Barnau</string>
+    <string name="almond">Almond</string>
+    <string name="garlic">Garlic</string>
+
+    <string name="doha_line3q2">"Barnau _________ Bimal Jasu"</string>
+    <string name="raghubar">Raghubar</string>
+    <string name="tamarind">Tamarind</string>
+    <string name="beetroot">Beetroot</string>
+
+    <string name="doha_line3q3">"Barnau Raghubar ______ Jasu"</string>
+    <string name="bimal">Bimal</string>
+    <string name="horse">Horse</string>
+    <string name="guava">Guava</string>
+
+    <string name="doha_line3q4">"Barnau Raghubar Bimal _____"</string>
+    <string name="jasu">Jasu</string>
+    <string name="lion">Lion</string>
+    <string name="goat">Goat</string>
+
+    // DOHA LINE N0 4.
+
+    <string name="doha_line4q1">"___ Dayaku Phal Chari"</string>
+    <string name="jo">Jo</string>
+    <string name="go">Go</string>
+    <string name="to">To</string>
+
+    <string name="doha_line4q2">"Jo _______ Phal Chari"</string>
+    <string name="dayaku">Dayaku</string>
+    <string name="orange">Orange</string>
+    <string name="fennel">Fennel</string>
+
+    <string name="doha_line4q3">"Jo Dayaku _____ Chari"</string>
+    <string name="phal">Phal</string>
+    <string name="neem">Neem</string>
+    <string name="duck">Duck</string>
+
+    <string name="doha_line4q4">"Jo Dayaku Phal ______"</string>
+    <string name="chari">Chari</string>
+    <string name="camel">Camel</string>
+    <string name="grape">Grape</string>
+
+    // DOHA LINE N0 5.
+
+    <string name="doha_line5q1">"___________ Tanu Janike"</string>
+    <string name="buddhiheen">Buddhiheen</string>
+    <string name="basketball">Basketball</string>
+    <string name="sandstones">Sandstones</string>
+
+    <string name="doha_line5q2">"Buddhiheen _____ Janike"</string>
+    <string name="tanu">Tanu</string>
+    <string name="bold">Bold</string>
+    <string name="cool">Cool</string>
+
+    <string name="doha_line5q3">"Buddhiheen Tanu _______"</string>
+    <string name="janike">Janike</string>
+    <string name="future">Future</string>
+    <string name="school">School</string>
+
+    // DOHA LINE N0 6.
+
+    <string name="doha_line6q1">"________ Pavan Kumar"</string>
+    <string name="sumirow">Sumirow</string>
+    <string name="penguin">Penguin</string>
+    <string name="apricot">Apricot</string>
+
+    <string name="doha_line6q2">"Sumirow ______ Kumar"</string>
+    <string name="pavan">Pavan</string>
+    <string name="lemon">Lemon</string>
+    <string name="jumbo">Jumbo</string>
+
+    <string name="doha_line6q3">"Sumirow Pavan ______"</string>
+    <string name="kumar">Kumar</string>
+    <string name="table">Table</string>
+    <string name="mango">Mango</string>
+
+    // DOHA LINE N0 7.
+
+    <string name="doha_line7q1">"____ Buddhi Vidya Dehu Mohi"</string>
+    <string name="bal">Bal</string>
+    <string name="car">Car</string>
+    <string name="man">Man</string>
+
+    <string name="doha_line7q2">"Bal _______ Vidya Dehu Mohi"</string>
+    <string name="buddhi">Buddhi</string>
+    <string name="carrot">Carrot</string>
+    <string name="papaya">Papaya</string>
+
+    <string name="doha_line7q3">"Bal Buddhi ______ Dehu Mohi"</string>
+    <string name="vidya">Vidya</string>
+    <string name="onion">Onion</string>
+    <string name="zebra">Zebra</string>
+
+    <string name="doha_line7q4">"Bal Buddhi Vidya _____ Mohi"</string>
+    <string name="dehu">Dehu</string>
+    <string name="crab">Crab</string>
+    <string name="lime">Lime</string>
+
+    <string name="doha_line7q5">"Bal Buddhi Vidya Dehu _____"</string>
+    <string name="mohi">Mohi</string>
+    <string name="kiwi">Kiwi</string>
+    <string name="corn">Corn</string>
+
+    // DOHA LINE N0 8.
+
+    <string name="doha_line8q1">"_______ Kales Bikaar"</string>
+    <string name="harahu">Harahu</string>
+    <string name="tomato">Tomato</string>
+    <string name="pepper">Pepper</string>
+
+    <string name="doha_line8q2">"Harahu ______ Bikaar"</string>
+    <string name="kales">Kales</string>
+    <string name="wheat">Wheat</string>
+    <string name="olive">Olive</string>
+
+    <string name="doha_line8q3">"Harahu Kales _______"</string>
+    <string name="bikaar">Bikaar</string>
+    <string name="coffee">Coffee</string>
+    <string name="peanut">Peanut</string>
+
+    // CHOPAI LINE N0 1.
+
+    <string name="chopai_line1q1">"____ Hanuman Gyan Gun Sagar"</string>
+    <string name="jai">Jai</string>
+    <string name="bee">Bee</string>
+    <string name="may">May</string>
+
+    <string name="chopai_line1q2">"Jai ________ Gyan Gun Sagar"</string>
+    <string name="hanuman">Hanuman</string>
+    <string name="honesty">Honesty</string>
+    <string name="jasmine">Jasmine</string>
+
+    <string name="chopai_line1q3">"Jai Hanuman _____ Gun Sagar"</string>
+    <string name="gyan">Gyan</string>
+    <string name="four">Four</string>
+    <string name="pear">Pear</string>
+
+    <string name="chopai_line1q4">"Jai Hanuman Gyan ____ Sagar"</string>
+    <string name="gun">Gun</string>
+    <string name="run">Run</string>
+    <string name="tea">Tea</string>
+
+    <string name="chopai_line1q5">"Jai Hanuman Gyan Gun ______"</string>
+    <string name="sagar">Sagar</string>
+    <string name="rhino">Rhino</string>
+    <string name="peach">Peach</string>
+
+    // CHOPAI LINE N0 2.
+
+    <string name="chopai_line2q1">"____ Kapis Tihun Lok Ujaagar"</string>
+    <string name="jai_2">Jai</string>
+    <string name="boy">Boy</string>
+    <string name="raw">Raw</string>
+
+    <string name="chopai_line2q2">"Jai ______ Tihun Lok Ujaagar"</string>
+    <string name="kapis">Kapis</string>
+    <string name="davis">Davis</string>
+    <string name="crown">Crown</string>
+
+    <string name="chopai_line2q3">"Jai Kapis ______ Lok Ujaagar"</string>
+    <string name="tihun">Tihun</string>
+    <string name="grown">Grown</string>
+    <string name="point">Point</string>
+
+    <string name="chopai_line2q4">"Jai Kapis Tihun ____ Ujaagar"</string>
+    <string name="lok">Lok</string>
+    <string name="cop">Cap</string>
+    <string name="ray">Ray</string>
+
+    <string name="chopai_line2q5">"Jai Kapis Tihun Lok ________"</string>
+    <string name="ujaagar">Ujaagar</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="octopus">Octopus</string>
+
+    // CHOPAI LINE N0 3.
+
+    <string name="chopai_line3q1">"________ Atulit Bal Dhamaa"</string>
+    <string name="ramdoot">Ramdoot</string>
+    <string name="cheetah">Cheetah</string>
+    <string name="peacock">Peacock</string>
+
+    <string name="chopai_line3q2">"Ramdoot _______ Bal Dhamaa"</string>
+    <string name="atulit">Atulit</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="impala">Impala</string>
+
+    <string name="chopai_line3q3">"Ramdoot Atulit ____ Dhamaa"</string>
+    <string name="bal_2">Bal</string>
+    <string name="zip">Zip</string>
+    <string name="max">Max</string>
+
+    <string name="chopai_line3q4">"Ramdoot Atulit Bal _______"</string>
+    <string name="dhamaa">Dhamaa</string>
+    <string name="jackal">Jackal</string>
+    <string name="quartz">Quartz</string>
+
+    // CHOPAI LINE N0 4.
+
+    <string name="chopai_line4q1">"_______ Putra Pavansut Naamaa"</string>
+    <string name="anjani">Anjani</string>
+    <string name="silver">Silver</string>
+    <string name="heaven">Heaven</string>
+
+    <string name="chopai_line4q2">"Anjani ______ Pavansut Naamaa"</string>
+    <string name="putra">Putra</string>
+    <string name="craft">Craft</string>
+    <string name="eagle">Eagle</string>
+
+    <string name="chopai_line4q3">"Anjani Putra _________ Naamaa"</string>
+    <string name="pavansut">Pavansut</string>
+    <string name="honeydew">Honeydew</string>
+    <string name="colorful">Colorful</string>
+
+    <string name="chopai_line4q4">"Anjani Putra Pavansut _______"</string>
+    <string name="naamaa">Naamaa</string>
+    <string name="author">Author</string>
+    <string name="breath">Breath</string>
+
+    // CHOPAI LINE N0 5.
+
+    <string name="chopai_line5q1">"_________ Bikram Bajrangi"</string>
+    <string name="mahaveer">Mahaveer</string>
+    <string name="teammate">Teammate</string>
+    <string name="elephant">Elephant</string>
+
+    <string name="chopai_line5q2">"Mahaveer _______ Bajrangi"</string>
+    <string name="bikram">Bikram</string>
+    <string name="walrus">Walrus</string>
+    <string name="spirit">Spirit</string>
+
+    <string name="chopai_line5q3">"Mahaveer Bikram _________"</string>
+    <string name="bajrangi">Bajrangi</string>
+    <string name="fragment">Fragment</string>
+    <string name="extracts">Extracts</string>
+
+    // CHOPAI LINE N0 6.
+
+    <string name="chopai_line6q1">"Kumati Nivaar Sumati Ke Sangi"</string>
+    <string name="kumati">Kumati</string>
+    <string name="barley">Barley</string>
+    <string name="sample">Sample</string>
+
+    <string name="chopai_line6q2">"Kumati Nivaar Sumati Ke Sangi"</string>
+    <string name="nivaar">Nivaar</string>
+    <string name="little">Little</string>
+    <string name="shiver">Shiver</string>
+
+    <string name="chopai_line6q3">"Kumati Nivaar Sumati Ke Sangi"</string>
+    <string name="sumati">Sumati</string>
+    <string name="pestle">Pestle</string>
+    <string name="trivia">Trivia</string>
+
+    <string name="chopai_line6q4">"Kumati Nivaar Sumati Ke Sangi"</string>
+    <string name="ke">Ke</string>
+    <string name="so">So</string>
+    <string name="le">Le</string>
+
+    <string name="chopai_line6q5">"Kumati Nivaar Sumati Ke Sangi"</string>
+    <string name="sangi">Sangi</string>
+    <string name="burst">Burst</string>
+    <string name="shape">Shape</string>
+
+    // CHOPAI LINE N0 7.
+
+    <string name="chopai_line7q1">"________ Baran Biraaj Subesaa"</string>
+    <string name="kanchan">Kanchan</string>
+    <string name="leopard">Leopard</string>
+    <string name="buffalo">Buffalo</string>
+
+    <string name="chopai_line7q2">"Kanchan ______ Biraaj Subesaa"</string>
+    <string name="baran">Baran</string>
+    <string name="snake">Snake</string>
+    <string name="panda">Panda</string>
+
+    <string name="chopai_line7q3">"Kanchan Baran _______ Subesaa"</string>
+    <string name="biraaj">Biraaj</string>
+    <string name="mammal">Mammal</string>
+    <string name="brazil">Brazil</string>
+
+    <string name="chopai_line7q4">"Kanchan Baran Biraaj ________"</string>
+    <string name="subesaa">Subesaa</string>
+    <string name="bullock">Bullock</string>
+    <string name="dolphin">Dolphin</string>
+
+    // CHOPAI LINE N0 8.
+
+    <string name="chopai_line8q1">"_______ Kundal Kunchit Kesa"</string>
+    <string name="kaanan">Kaanan</string>
+    <string name="cherry">Cherry</string>
+    <string name="cashew">Cashew</string>
+
+    <string name="chopai_line8q2">"Kaanan _______ Kunchit Kesa"</string>
+    <string name="kundal">Kundal</string>
+    <string name="cooker">Cooker</string>
+    <string name="lentil">Lentil</string>
+
+    <string name="chopai_line8q3">"Kaanan Kundal ________ Kesa"</string>
+    <string name="kunchit">Kunchit</string>
+    <string name="mammoth">Mammoth</string>
+    <string name="meercat">Meercat</string>
+
+    <string name="chopai_line8q4">"Kaanan Kundal Kunchit _____"</string>
+    <string name="kesa">Kesa</string>
+    <string name="deer">Deer</string>
+    <string name="musk">Musk</string>
+
+    // CHOPAI LINE N0 9.
+
+    <string name="chopai_line9q1">"______ Bajra Aur Dhwaja Birajai"</string>
+    <string name="haath">Haath</string>
+    <string name="bison">Bison</string>
+    <string name="moose">Moose</string>
+
+    <string name="chopai_line9q2">"Haath ______ Aur Dhwaja Birajai"</string>
+    <string name="bajra">Bajra</string>
+    <string name="mouse">Mouse</string>
+    <string name="royal">Royal</string>
+
+    <string name="chopai_line9q3">"Haath Bajra ____ Dhwaja Birajai"</string>
+    <string name="aur">Aur</string>
+    <string name="cat">Cat</string>
+    <string name="eel">Eel</string>
+
+    <string name="chopai_line9q4">"Haath Bajra Aur _______ Birajai"</string>
+    <string name="dhwaja">Dhwaja</string>
+    <string name="potato">Potato</string>
+    <string name="radish">Radish</string>
+
+    <string name="chopai_line9q5">"Haath Bajra Aur Dhwaja ________"</string>
+    <string name="birajai">Birajai</string>
+    <string name="painter">Painter</string>
+    <string name="panther">Panther</string>
+
+    // CHOPAI LINE N0 10.
+
+    <string name="chopai_line10q1">"________ Moonj Janeu Saaje"</string>
+    <string name="kaandhe">Kaandhe</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="unicorn">Unicorn</string>
+
+    <string name="chopai_line10q2">"Kaandhe ______ Janeu Saaje"</string>
+    <string name="moonj">Moonj</string>
+    <string name="sheep">Sheep</string>
+    <string name="whale">Whale</string>
+
+    <string name="chopai_line10q3">"Kaandhe Moonj ______ Saaje"</string>
+    <string name="janeu">Janeu</string>
+    <string name="eater">Eater</string>
+    <string name="pulse">Pulse</string>
+
+    <string name="chopai_line10q4">"Kaandhe Moonj Janeu ______"</string>
+    <string name="saaje">Saaje</string>
+    <string name="berry">Berry</string>
+    <string name="breed">Breed</string>
+
+    // CHOPAI LINE N0 11.
+
+    <string name="chopai_line11q1">"______ Suvan Kesri Nandan"</string>
+    <string name="sankar">Sankar</string>
+    <string name="raisin">Raisin</string>
+    <string name="ginger">Ginger</string>
+
+    <string name="chopai_line11q2">"Sankar ______ Kesri Nandan"</string>
+    <string name="suvan">Suvan</string>
+    <string name="acorn">Acorn</string>
+    <string name="child">Child</string>
+
+    <string name="chopai_line11q3">"Sankar Suvan ______ Nandan"</string>
+    <string name="kesri">Kesri</string>
+    <string name="dates">Dates</string>
+    <string name="event">Event</string>
+
+    <string name="chopai_line11q4">"Sankar Suvan Kesri _______"</string>
+    <string name="nandan">Nandan</string>
+    <string name="walnut">Walnut</string>
+    <string name="rocket">Rocket</string>
+
+    // CHOPAI LINE N0 12.
+
+    <string name="chopai_line12q1">"____ Pratap Maha Jag Vandan"</string>
+    <string name="tej">Tej</string>
+    <string name="fly">Fly</string>
+    <string name="ape">Ape</string>
+
+    <string name="chopai_line12q2">"Tej _______ Maha Jag Vandan"</string>
+    <string name="pratap">Pratap</string>
+    <string name="citrus">Citrus</string>
+    <string name="effect">Effect</string>
+
+    <string name="chopai_line12q3">"Tej Pratap _____ Jag Vandan"</string>
+    <string name="maha">Maha</string>
+    <string name="crop">Crop</string>
+    <string name="heir">Heir</string>
+
+    <string name="chopai_line12q4">"Tej Pratap Maha ____ Vandan"</string>
+    <string name="jag">Jag</string>
+    <string name="kid">Kid</string>
+    <string name="nut">Nut</string>
+
+    <string name="chopai_line12q5">"Tej Pratap Maha Jag _______"</string>
+    <string name="vandan">Vandan</string>
+    <string name="income">Income</string>
+    <string name="nutmeg">Nutmeg</string>
+
+    // CHOPAI LINE N0 13.
+
+    <string name="chopai_line13q1">"__________ Guni Ati Chaatur"</string>
+    <string name="vidyavaan">Vidyavaan</string>
+    <string name="blueberry">Blueberry</string>
+    <string name="invention">Invention</string>
+
+    <string name="chopai_line13q2">"Vidyavaan _____ Ati Chaatur"</string>
+    <string name="guni">Guni</string>
+    <string name="work">Work</string>
+    <string name="seed">Seed</string>
+
+    <string name="chopai_line13q3">"Vidyavaan Guni ____ Chaatur"</string>
+    <string name="ati">Ati</string>
+    <string name="cow">Cow</string>
+    <string name="hen">Hen</string>
+
+    <string name="chopai_line13q4">"Vidyavaan Guni Ati ________"</string>
+    <string name="chaatur">Chaatur</string>
+    <string name="essence">Essence</string>
+    <string name="harvest">Harvest</string>
+
+    // CHOPAI LINE N0 14.
+
+    <string name="chopai_line14q1">"____ Kaaj Karibe Ko Aatur"</string>
+    <string name="ram">Ram</string>
+    <string name="can">Can</string>
+    <string name="row">Row</string>
+
+    <string name="chopai_line14q2">"Ram _____ Karibe Ko Aatur"</string>
+    <string name="kaaj">Kaaj</string>
+    <string name="make">Make</string>
+    <string name="plum">Plum</string>
+
+    <string name="chopai_line14q3">"Ram Kaaj _______ Ko Aatur"</string>
+    <string name="karibe">Karibe</string>
+    <string name="invert">Invert</string>
+    <string name="kernel">Kernel</string>
+
+    <string name="chopai_line14q4">"Ram Kaaj Karibe ___ Aatur"</string>
+    <string name="ko">Ko</string>
+    <string name="is">Is</string>
+    <string name="ro">Ro</string>
+
+    <string name="chopai_line14q5">"Ram Kaaj Karibe Ko ______"</string>
+    <string name="aatur">Aatur</string>
+    <string name="opera">Opera</string>
+    <string name="stone">Stone</string>
+
+    // CHOPAI LINE N0 15.
+
+    <string name="chopai_line15q1">"_______ Charittra Sunibe Ko Rasiya"</string>
+    <string name="prabhu">Prabhu</string>
+    <string name="muscut">Muscut</string>
+    <string name="output">Output</string>
+
+    <string name="chopai_line15q2">"Prabhu __________ Sunibe Ko Rasiya"</string>
+    <string name="charittra">Charittra</string>
+    <string name="jackfruit">Jackfruit</string>
+    <string name="muskmelon">Muskmelon</string>
+
+    <string name="chopai_line15q3">"Prabhu Charittra _______ Ko Rasiya"</string>
+    <string name="sunibe">Sunibe</string>
+    <string name="result">Result</string>
+    <string name="sequel">Sequel</string>
+
+    <string name="chopai_line15q4">"Prabhu Charittra Sunibe ___ Rasiya"</string>
+    <string name="ko_2">Ko</string>
+    <string name="lo">Lo</string>
+    <string name="pe">Pe</string>
+
+    <string name="chopai_line15q5">"Prabhu Charittra Sunibe Ko _______"</string>
+    <string name="rasiya">Rasiya</string>
+    <string name="leaves">Leaves</string>
+    <string name="beetle">Beetle</string>
+
+    // CHOPAI LINE N0 16.
+
+    <string name="chopai_line16q1">"____ Lakhan Sita Mann Basiya"</string>
+    <string name="ram_2">Ram</string>
+    <string name="emu">Emu</string>
+    <string name="pen">Pen</string>
+
+    <string name="chopai_line16q2">"Ram _______ Sita Mann Basiya"</string>
+    <string name="lakhan">Lakhan</string>
+    <string name="cobalt">Cobalt</string>
+    <string name="marble">Marble</string>
+
+    <string name="chopai_line16q3">"Ram Lakhan _____ Mann Basiya"</string>
+    <string name="sita">Sita</string>
+    <string name="neat">Neat</string>
+    <string name="puma">Puma</string>
+
+    <string name="chopai_line16q4">"Ram Lakhan Sita _____ Basiya"</string>
+    <string name="mann_2">Mann</string>
+    <string name="seal">Seal</string>
+    <string name="wolf">Wolf</string>
+
+    <string name="chopai_line16q5">"Ram Lakhan Sita Mann _______"</string>
+    <string name="basiya">Basiya</string>
+    <string name="copper">Copper</string>
+    <string name="radium">Radium</string>
+
+    // CHOPAI LINE N0 17.
+
+    <string name="chopai_line17q1">"________ Roop Dhari Siyahi Dikhawa"</string>
+    <string name="sukshma">Sukshma</string>
+    <string name="piranha">Piranha</string>
+    <string name="hamster">Hamster</string>
+
+    <string name="chopai_line17q2">"Sukshma _____ Dhari Siyahi Dikhawa"</string>
+    <string name="roop">Roop</string>
+    <string name="bull">Bull</string>
+    <string name="calf">Calf</string>
+
+    <string name="chopai_line17q3">"Sukshma Roop ______ Siyahi Dikhawa"</string>
+    <string name="dhari">Dhari</string>
+    <string name="queen">Queen</string>
+    <string name="chief">Chief</string>
+
+    <string name="chopai_line17q4">"Sukshma Roop Dhari _______ Dikhawa"</string>
+    <string name="siyahi">Sayahi</string>
+    <string name="silica">Silica</string>
+    <string name="sodium">Sodium</string>
+
+    <string name="chopai_line17q5">"Sukshma Roop Dhari Siyahi ________"</string>
+    <string name="dikhawa">Dikhawa</string>
+    <string name="spinach">Spinach</string>
+    <string name="gorilla">Gorilla</string>
+
+    // CHOPAI LINE N0 18.
+
+    <string name="chopai_line18q1">"______ Roop Dhari Lank Jarawa"</string>
+    <string name="vikat">Vikat</string>
+    <string name="brain">Brain</string>
+    <string name="stove">Stove</string>
+
+    <string name="chopai_line18q2">"Vikat _____ Dhari Lank Jarawa"</string>
+    <string name="roop_2">Roop</string>
+    <string name="slip">Slip</string>
+    <string name="ring">Ring</string>
+
+    <string name="chopai_line18q3">"Vikat Roop ______ Lank Jarawa"</string>
+    <string name="dhari_2">Dhari</string>
+    <string name="grain">Grain</string>
+    <string name="sting">Sting</string>
+
+    <string name="chopai_line18q4">"Vikat Roop Dhari _____ Jarawa"</string>
+    <string name="lank">Lank</string>
+    <string name="tank">Tank</string>
+    <string name="bank">Bank</string>
+
+    <string name="chopai_line18q5">"Vikat Roop Dhari Lank _______"</string>
+    <string name="jarawa">Jarawa</string>
+    <string name="cereal">Cereal</string>
+    <string name="millet">Millet</string>
+
+    // CHOPAI LINE N0 19.
+
+    <string name="chopai_line19q1">"______ Roop Dhari Asur Sanhare"</string>
+    <string name="bheem">Bheem</string>
+    <string name="alarm">Alarm</string>
+    <string name="canon">Canon</string>
+
+    <string name="chopai_line19q2">"Bheem _____ Dhari Asur Sanhare"</string>
+    <string name="roop_3">Roop</string>
+    <string name="cake">Cake</string>
+    <string name="pass">Pass</string>
+
+    <string name="chopai_line19q3">"Bheem Roop ______ Asur Sanhare"</string>
+    <string name="dhari_3">Dhari</string>
+    <string name="chalk">Chalk</string>
+    <string name="china">China</string>
+
+    <string name="chopai_line19q4">"Bheem Roop Dhari _____ Sanhare"</string>
+    <string name="asur">Asur</string>
+    <string name="zinc">Zinc</string>
+    <string name="bake">Bake</string>
+
+    <string name="chopai_line19q5">"Bheem Roop Dhari Asur ________"</string>
+    <string name="sanhare">Sanhare</string>
+    <string name="armrest">Armrest</string>
+    <string name="bagpipe">Bagpipe</string>
+
+    // CHOPAI LINE N0 20.
+
+    <string name="chopai_line20q1">"___________ Ke Kaaj Sanvaare"</string>
+    <string name="ramchandra">Ramchandra</string>
+    <string name="everything">Everything</string>
+    <string name="strawberry">Strawberry</string>
+
+    <string name="chopai_line20q2">"Ramchandra __ Kaaj Sanvaare"</string>
+    <string name="ke_2">Ke</string>
+    <string name="li">Li</string>
+    <string name="in">In</string>
+
+    <string name="chopai_line20q3">"Ramchandra Ke _____ Sanvaare"</string>
+    <string name="kaaj_2">Kaaj</string>
+    <string name="word">Word</string>
+    <string name="rope">Rope</string>
+
+    <string name="chopai_line20q4">"Ramchandra Ke Kaaj _________"</string>
+    <string name="sanvaare">Sanvaare</string>
+    <string name="software">Software</string>
+    <string name="brocolis">Brocolis</string>
+
+    // CHOPAI LINE N0 21.
+
+    <string name="chopai_line21q1">"______ Sajivan Lakhan Jiyaaye"</string>
+    <string name="laaye">Laaye</string>
+    <string name="churn">Churn</string>
+    <string name="drive">Drive</string>
+
+    <string name="chopai_line21q2">"Laaye ________ Lakhan Jiyaaye"</string>
+    <string name="sajivan">Sajivan</string>
+    <string name="caution">Caution</string>
+    <string name="fishnet">Fishnet</string>
+
+    <string name="chopai_line21q3">"Laaye Sajivan _______ Jiyaaye"</string>
+    <string name="lakhan_2">Lakhan</string>
+    <string name="button">Button</string>
+    <string name="honest">Honest</string>
+
+    <string name="chopai_line21q4">"Laaye Sajivan Lakhan ________"</string>
+    <string name="jiyaaye">Jiyaaye</string>
+    <string name="freedom">Freedom</string>
+    <string name="leather">Leather</string>
+
+    // CHOPAI LINE N0 22.
+
+    <string name="chopai_line22q1">"_____ Raghuvir Harashi Ur Laaye"</string>
+    <string name="shri">Shri</string>
+    <string name="book">Book</string>
+    <string name="shop">Shop</string>
+
+    <string name="chopai_line22q2">"Shri _________ Harashi Ur Laaye"</string>
+    <string name="raghuvir">Raghuvir</string>
+    <string name="calmness">Calmness</string>
+    <string name="chairman">Chairman</string>
+
+    <string name="chopai_line22q3">"Shri Raghuvir ________ Ur Laaye"</string>
+    <string name="harashi">Harashi</string>
+    <string name="mercury">Mercury</string>
+    <string name="nuclear">Nuclear</string>
+
+    <string name="chopai_line22q4">"Shri Raghuvir Harashi ___ Laaye"</string>
+    <string name="ur">Ur</string>
+    <string name="ti">Ti</string>
+    <string name="lu">Lu</string>
+
+    <string name="chopai_line22q5">"Shri Raghuvir Harashi Ur ______"</string>
+    <string name="laaye_2">Laaye</string>
+    <string name="empty">Empty</string>
+    <string name="gloss">Gloss</string>
+
+    // CHOPAI LINE N0 23.
+
+    <string name="chopai_line23q1">"__________ Kinhi Bahut Badaai"</string>
+    <string name="raghupati">Raghupati</string>
+    <string name="butterfly">Butterfly</string>
+    <string name="pineapple">Pineapple</string>
+
+    <string name="chopai_line23q2">"Raghupati ______ Bahut Badaai"</string>
+    <string name="kinhi">Kinhi</string>
+    <string name="hoist">Hoist</string>
+    <string name="learn">Learn</string>
+
+    <string name="chopai_line23q3">"Raghupati Kinhi ______ Badaai"</string>
+    <string name="bahut">Bahut</string>
+    <string name="metal">Metal</string>
+    <string name="nurse">Nurse</string>
+
+    <string name="chopai_line23q4">"Raghupati Kinhi Bahut _______"</string>
+    <string name="badaai">Badaai</string>
+    <string name="island">Island</string>
+    <string name="jungle">Jungle</string>
+
+    // CHOPAI LINE N0 24.
+
+    <string name="chopai_line24q1">"____ Mam Priya Bharatahi Sam Bhaai"</string>
+    <string name="tum">Tum</string>
+    <string name="wax">Wax</string>
+    <string name="zoo">Zoo</string>
+
+    <string name="chopai_line24q2">"Tum ____ Priya Bharatahi Sam Bhaai"</string>
+    <string name="mam">Mam</string>
+    <string name="gym">Gym</string>
+    <string name="rim">Rim</string>
+
+    <string name="chopai_line24q3">"Tum Mam ______ Bharatahi Sam Bhaai"</string>
+    <string name="priya">Priya</string>
+    <string name="petal">Petal</string>
+    <string name="quite">Quite</string>
+
+    <string name="chopai_line24q4">"Tum Mam Priya __________ Sam Bhaai"</string>
+    <string name="bharatahi">Bharatahi</string>
+    <string name="pistachio">Pistachio</string>
+    <string name="cranberry">Cranberry</string>
+
+    <string name="chopai_line24q5">"Tum Mam Priya Bharatahi ____ Bhaai"</string>
+    <string name="sam">Sam</string>
+    <string name="van">Van</string>
+    <string name="tax">Tax</string>
+
+    <string name="chopai_line24q6">"Tum Mam Priya Bharatahi Sam ______"</string>
+    <string name="bhaai">Bhaai</string>
+    <string name="raise">Raise</string>
+    <string name="sugar">Sugar</string>
+
+    // CHOPAI LINE N0 25.
+
+    <string name="chopai_line25q1">"______ Badan Tumharo Jas Gaavein"</string>
+    <string name="sahas">Sahas</string>
+    <string name="scene">Scene</string>
+    <string name="tempo">Tempo</string>
+
+    <string name="chopai_line25q2">"Sahas ______ Tumharo Jas Gaavein"</string>
+    <string name="badan">Badan</string>
+    <string name="topaz">Topaz</string>
+    <string name="urban">Urban</string>
+
+    <string name="chopai_line25q3">"Sahas Badan _______ Jas Gaavein"</string>
+    <string name="tumharo">Tumharo</string>
+    <string name="notepad">Notepad</string>
+    <string name="opinion">Opinion</string>
+
+    <string name="chopai_line25q4">"Sahas Badan Tumharo ____ Gaavein"</string>
+    <string name="jas">Jas</string>
+    <string name="add">Add</string>
+    <string name="dam">Dam</string>
+
+    <string name="chopai_line25q5">"Sahas Badan Tumharo Jas ________"</string>
+    <string name="gaavein">Gaavein</string>
+    <string name="pacific">Pacific</string>
+    <string name="railway">Railway</string>
+
+    // CHOPAI LINE N0 26.
+
+    <string name="chopai_line26q1">"____ Kahi Shripati Kanth Lagaavein"</string>
+    <string name="asa">Asa</string>
+    <string name="dry">Dry</string>
+    <string name="ear">Ear</string>
+
+    <string name="chopai_line26q2">"Asa _____ Shripati Kanth Lagaavein"</string>
+    <string name="kahi">Kahi</string>
+    <string name="slow">Slow</string>
+    <string name="taxi">Taxi</string>
+
+    <string name="chopai_line26q3">"Asa Kahi _________ Kanth Lagaavein"</string>
+    <string name="shripati">Shripati</string>
+    <string name="computer">Computer</string>
+    <string name="fortress">Fortress</string>
+
+    <string name="chopai_line26q4">"Asa Kahi Shripati ______ Lagaavein"</string>
+    <string name="kanth">Kanth</string>
+    <string name="valet">Valet</string>
+    <string name="young">Young</string>
+
+    <string name="chopai_line26q5">"Asa Kahi Shripati Kanth __________"</string>
+    <string name="lagaavein">Lagaavein</string>
+    <string name="alligator">Alligator</string>
+    <string name="chameleon">Chameleon</string>
+
+    // CHOPAI LINE N0 27.
+
+    <string name="chopai_line27q1">"__________ Brahmaadi Muneesa"</string>
+    <string name="sankaadik">Sankaadik</string>
+    <string name="orangutan">Orangutan</string>
+    <string name="porcupine">Porcupine</string>
+
+    <string name="chopai_line27q2">"Sankaadik __________ Muneesa"</string>
+    <string name="brahmaadi">Brahmaadi</string>
+    <string name="jellyfish">Jellyfish</string>
+    <string name="raspberry">Raspberry</string>
+
+    <string name="chopai_line27q3">"Sankaadik Brahmaadi ________"</string>
+    <string name="muneesa">Muneesa</string>
+    <string name="sandman">Sandman</string>
+    <string name="textile">Textile</string>
+
+    // CHOPAI LINE N0 28.
+
+    <string name="chopai_line28q1">"______ Saarad Sahit Aheesa"</string>
+    <string name="narad">Narad</string>
+    <string name="field">Field</string>
+    <string name="gland">Gland</string>
+
+    <string name="chopai_line28q2">"Narad _______ Sahit Aheesa"</string>
+    <string name="saarad">Saarad</string>
+    <string name="junior">Junior</string>
+    <string name="keeper">Keeper</string>
+
+    <string name="chopai_line28q3">"Narad Saarad _______ Aheesa"</string>
+    <string name="sahit">Sahit</string>
+    <string name="glare">Glare</string>
+    <string name="ideal">Ideal</string>
+
+    <string name="chopai_line28q4">"Narad Saarad Sahit _______"</string>
+    <string name="aheesa">Aheesa</string>
+    <string name="keypad">Keypad</string>
+    <string name="maroon">Maroon</string>
+
+    // CHOPAI LINE N0 29.
+
+    <string name="chopai_line29q1">"____ Kuber Digpaal Jahaan Te"</string>
+    <string name="jam">Jam</string>
+    <string name="dub">Dub</string>
+    <string name="fat">Fat</string>
+
+    <string name="chopai_line29q2">"Jam ______ Digpaal Jahaan Te"</string>
+    <string name="kuber">Kuber</string>
+    <string name="kraft">Kraft</string>
+    <string name="local">Local</string>
+
+    <string name="chopai_line29q3">"Jam Kuber ________ Jahaan Te"</string>
+    <string name="digpaal">Digpaal</string>
+    <string name="thermal">Thermal</string>
+    <string name="uranium">Uranium</string>
+
+    <string name="chopai_line29q4">"Jam Kuber Digpaal _______ Te"</string>
+    <string name="jahaan">Jahaan</string>
+    <string name="marine">Marine</string>
+    <string name="newton">Newton</string>
+
+    <string name="chopai_line29q5">"Jam Kuber Digpaal Jahaan ___"</string>
+    <string name="te">Te</string>
+    <string name="pi">Pi</string>
+    <string name="su">Su</string>
+
+    // CHOPAI LINE N0 30.
+
+    <string name="chopai_line30q1">"______ Kovid Kahin Sake Kahan Te"</string>
+    <string name="kabhi">Kabhi</string>
+    <string name="march">March</string>
+    <string name="night">Night</string>
+
+    <string name="chopai_line30q2">"Kabhi ______ Kahin Sake Kahan Te"</string>
+    <string name="kovid">Kovid</string>
+    <string name="nubia">Nukes</string>
+    <string name="ocean">Ocean</string>
+
+    <string name="chopai_line30q3">"Kabhi Kovid ______ Sake Kahan Te"</string>
+    <string name="kahin">Kahin</string>
+    <string name="padle">Padle</string>
+    <string name="quota">Quota</string>
+
+    <string name="chopai_line30q4">"Kabhi Kovid Kahin _____ Kahan Te"</string>
+    <string name="sake">Sake</string>
+    <string name="tint">Tint</string>
+    <string name="volt">Volt</string>
+
+    <string name="chopai_line30q5">"Kabhi Kovid Kahin Sake ______ Te"</string>
+    <string name="kahan">Kahan</string>
+    <string name="ranch">Ranch</string>
+    <string name="salad">Salad</string>
+
+    <string name="chopai_line30q6">"Kabhi Kovid Kahin Sake Kahan ___"</string>
+    <string name="te_2">te</string>
+    <string name="ku">Ku</string>
+    <string name="by">By</string>
+
+    // CHOPAI LINE N0 31.
+
+    <string name="chopai_line31q1">"____ Upkar Sugrivahi Keenha"</string>
+    <string name="tum_2">Tum</string>
+    <string name="fin">Fin</string>
+    <string name="gap">Gap</string>
+
+    <string name="chopai_line31q2">"Tum ______ Sugrivahi Keenha"</string>
+    <string name="upkar">Upkar</string>
+    <string name="saint">Saint</string>
+    <string name="tarot">Tarot</string>
+
+    <string name="chopai_line31q3">"Tum Upkar __________ Keenha"</string>
+    <string name="sugrivahi">Sugrivahi</string>
+    <string name="chopstick">Chopstick</string>
+    <string name="herculean">Herculean</string>
+
+    <string name="chopai_line31q4">"Tum Upkar Sugrivahi _______"</string>
+    <string name="keenha">Keenha</string>
+    <string name="nimble">Nimble</string>
+    <string name="online">Online</string>
+
+    // CHOPAI LINE N0 32.
+
+    <string name="chopai_line32q1">"____ Milaaye Rajpad Deenha"</string>
+    <string name="ram_3">Ram</string>
+    <string name="tan">Tan</string>
+    <string name="son">Son</string>
+
+    <string name="chopai_line32q2">"Ram ________ Rajpad Deenha"</string>
+    <string name="milaaye">Milaaye</string>
+    <string name="venture">Venture</string>
+    <string name="zillion">Zillion</string>
+
+    <string name="chopai_line32q3">"Ram Milaaye _______ Deenha"</string>
+    <string name="rajpad">Rajpad</string>
+    <string name="orchid">Orchid</string>
+    <string name="pickle">Pickle</string>
+
+    <string name="chopai_line32q4">"Ram Milaaye Rajpad _______"</string>
+    <string name="deenha">Deenha</string>
+    <string name="pigeon">Pigeon</string>
+    <string name="random">Random</string>
+
+    // CHOPAI LINE N0 33.
+
+    <string name="chopai_line33q1">"________ Mantra Vibhishan Maana"</string>
+    <string name="tumharo_2">Tumharo</string>
+    <string name="sparrow">Sparrow</string>
+    <string name="abdomen">Abdomen</string>
+
+    <string name="chopai_line33q2">"Tumharo _______ Vibhishan Maana"</string>
+    <string name="mantra">Mantra</string>
+    <string name="before">Before</string>
+    <string name="carbon">Carbon</string>
+
+    <string name="chopai_line33q3">"Tumharo Mantra __________ Maana"</string>
+    <string name="vibhishan">Vibhishan</string>
+    <string name="hibernate">Hibernate</string>
+    <string name="immigrant">Immigrant</string>
+
+    <string name="chopai_line33q4">"Tumharo Mantra Vibhishan ______"</string>
+    <string name="maana">Maana</string>
+    <string name="unify">Unify</string>
+    <string name="valve">Valve</string>
+
+    // CHOPAI LINE N0 34.
+
+    <string name="chopai_line34q1">"___________ Bhaye Sab Jag Jaana"</string>
+    <string name="lankeshwar">Lankeshwar</string>
+    <string name="madagascar">Madagascar</string>
+    <string name="bangladesh">Bangladesh</string>
+
+    <string name="chopai_line34q2">"Lankeshwar ______ Sab Jag Jaana"</string>
+    <string name="bhaye">Bhaye</string>
+    <string name="angle">Angle</string>
+    <string name="broom">Broom</string>
+
+    <string name="chopai_line34q3">"Lankeshwar Bhaye ____ Jag Jaana"</string>
+    <string name="sab">Sab</string>
+    <string name="air">Air</string>
+    <string name="eye">Eye</string>
+
+    <string name="chopai_line34q4">"Lankeshwar Bhaye Sab ____ Jaana"</string>
+    <string name="jag_2">Jag</string>
+    <string name="fan">Fan</string>
+    <string name="hay">Hay</string>
+
+    <string name="chopai_line34q5">"Lankeshwar Bhaye Sab Jag ______"</string>
+    <string name="jaana">Jaana</string>
+    <string name="japan">Japan</string>
+    <string name="chile">Chile</string>
+
+    // CHOPAI LINE N0 35.
+
+    <string name="chopai_line35q1">"_____ Sahastra Jo Jan Par Bhaanu"</string>
+    <string name="juug">Juug</string>
+    <string name="army">Army</string>
+    <string name="boil">Boil</string>
+
+    <string name="chopai_line35q2">"Juug _________ Jo Jan Par Bhaanu"</string>
+    <string name="sahastra">Sahastra</string>
+    <string name="cambodia">Cambodia</string>
+    <string name="malaysia">Malaysia</string>
+
+    <string name="chopai_line35q3">"Juug Sahastra ___ Jan Par Bhaanu"</string>
+    <string name="jo_2">Jo</string>
+    <string name="tu">Tu</string>
+    <string name="po">Po</string>
+
+    <string name="chopai_line35q4">"Juug Sahastra Jo ____ Par Bhaanu"</string>
+    <string name="jan">Jan</string>
+    <string name="hit">Hit</string>
+    <string name="jet">Jet</string>
+
+    <string name="chopai_line35q5">"Juug Sahastra Jo Jan ____ Bhaanu"</string>
+    <string name="par">Par</string>
+    <string name="key">Key</string>
+    <string name="mac">Mac</string>
+
+    <string name="chopai_line35q6">"Juug Sahastra Jo Jan Par _______"</string>
+    <string name="bhaanu">Bhaanu</string>
+    <string name="artist">Artist</string>
+    <string name="berlin">Berlin</string>
+
+    // CHOPAI LINE N0 36.
+
+    <string name="chopai_line36q1">"_______ Taahi Madhur Phal Jaanu"</string>
+    <string name="leelyo">Leelyo</string>
+    <string name="caller">Caller</string>
+    <string name="excuse">Excuse</string>
+
+    <string name="chopai_line36q2">"Leelyo ______ Madhur Phal Jaanu"</string>
+    <string name="taahi">Taahi</string>
+    <string name="charm">Charm</string>
+    <string name="dough">Dough</string>
+
+    <string name="chopai_line36q3">"Leelyo Taahi _______ Phal Jaanu"</string>
+    <string name="madhur">Madhur</string>
+    <string name="finite">Finite</string>
+    <string name="health">Health</string>
+
+    <string name="chopai_line36q4">"Leelyo Taahi Madhur _____ Jaanu"</string>
+    <string name="phal_2">Phal</string>
+    <string name="chad">Chad</string>
+    <string name="easy">Easy</string>
+
+    <string name="chopai_line36q5">"Leelyo Taahi Madhur Phal ______"</string>
+    <string name="jaanu">Jaanu</string>
+    <string name="dress">Dress</string>
+    <string name="ferry">Ferry</string>
+
+    // CHOPAI LINE N0 37.
+
+    <string name="chopai_line37q1">"_______ Mudrika Meli Mukh Maaheen"</string>
+    <string name="prabhu_2">Prabhu</string>
+    <string name="hockey">Hockey</string>
+    <string name="infant">Infant</string>
+
+    <string name="chopai_line37q2">"Prabhu ________ Meli Mukh Maaheen"</string>
+    <string name="mudrika">Mudrika</string>
+    <string name="address">Address</string>
+    <string name="beneath">Beneath</string>
+
+    <string name="chopai_line37q3">"Prabhu Mudrika _____ Mukh Maaheen"</string>
+    <string name="meli">Meli</string>
+    <string name="drum">Drum</string>
+    <string name="exam">Exam</string>
+
+    <string name="chopai_line37q4">"Prabhu Mudrika Meli _____ Maaheen"</string>
+    <string name="mukh">Mukh</string>
+    <string name="farm">Farm</string>
+    <string name="good">Good</string>
+
+    <string name="chopai_line37q5">"Prabhu Mudrika Meli Mukh ________"</string>
+    <string name="maaheen">Maaheen</string>
+    <string name="blender">Blender</string>
+    <string name="central">Central</string>
+
+    // CHOPAI LINE N0 38.
+
+    <string name="chopai_line38q1">"________ Laanghi Gaye Acharaj Naaheen"</string>
+    <string name="jaladhi">Jaladhi</string>
+    <string name="capsule">Capsule</string>
+    <string name="holland">Holland</string>
+
+    <string name="chopai_line38q2">"Jaladhi ________ Gaye Acharaj Naaheen"</string>
+    <string name="laanghi">Laanghi</string>
+    <string name="elevate">Elevate</string>
+    <string name="farther">Farther</string>
+
+    <string name="chopai_line38q3">"Jaladhi Laanghi _____ Acharaj Naaheen"</string>
+    <string name="gaye">Gaye</string>
+    <string name="hole">Hole</string>
+    <string name="idol">Idol</string>
+
+    <string name="chopai_line38q4">"Jaladhi Laanghi Gaye ________ Naaheen"</string>
+    <string name="acharaj">Acharaj</string>
+    <string name="furnace">Furnace</string>
+    <string name="glacier">Glacier</string>
+
+    <string name="chopai_line38q5">"Jaladhi Laanghi Gaye Acharaj ________"</string>
+    <string name="naaheen">Naaheen</string>
+    <string name="glamour">Glamour</string>
+    <string name="forever">Forever</string>
+
+    // CHOPAI LINE N0 39.
+
+    <string name="chopai_line39q1">"_______ Kaaj Jagat Ke Jete"</string>
+    <string name="durgam">Durgam</string>
+    <string name="indigo">Indigo</string>
+    <string name="jumble">Jumble</string>
+
+    <string name="chopai_line39q2">"Durgam _____ Jagat Ke Jete"</string>
+    <string name="kaaj_3">Kaaj</string>
+    <string name="item">Item</string>
+    <string name="chew">Chew</string>
+
+    <string name="chopai_line39q3">"Durgam Kaaj ______ Ke Jete"</string>
+    <string name="jagat">Jagat</string>
+    <string name="flake">Flake</string>
+    <string name="gamer">Gamer</string>
+
+    <string name="chopai_line39q4">"Durgam Kaaj Jagat ___ Jete"</string>
+    <string name="ke_3">Ke</string>
+    <string name="ci">Ci</string>
+    <string name="ho">Ho</string>
+
+    <string name="chopai_line39q5">"Durgam Kaaj Jagat Ke _____"</string>
+    <string name="jete">Jete</string>
+    <string name="king">King</string>
+    <string name="lama">Lama</string>
+
+    // CHOPAI LINE N0 40.
+
+    <string name="chopai_line40q1">"______ Anugrah Tumhare Tete"</string>
+    <string name="sugam">Sugam</string>
+    <string name="grand">Grand</string>
+    <string name="house">House</string>
+
+    <string name="chopai_line40q2">"Sugam ________ Tumhare Tete"</string>
+    <string name="anugrah">Anugrah</string>
+    <string name="granite">Granite</string>
+    <string name="hairpin">Hairpin</string>
+
+    <string name="chopai_line40q3">"Sugam Anugrah ________ Tete"</string>
+    <string name="tumhare">Tumhare</string>
+    <string name="harmony">Harmony</string>
+    <string name="iceberg">Iceberg</string>
+
+    <string name="chopai_line40q4">"Sugam Anugrah Tumhare _____"</string>
+    <string name="tete">Tete</string>
+    <string name="late">Late</string>
+    <string name="mail">Mail</string>
+
+    // CHOPAI LINE N0 41.
+
+    <string name="chopai_line41q1">"____ Duwaare Tum Rakhwaare"</string>
+    <string name="ram_4">Ram</string>
+    <string name="lip">Lip</string>
+    <string name="mom">Mom</string>
+
+    <string name="chopai_line41q2">"Ram ________ Tum Rakhwaare"</string>
+    <string name="duwaare">Duwaare</string>
+    <string name="inspect">Inspect</string>
+    <string name="journey">Journey</string>
+
+    <string name="chopai_line41q3">"Ram Duwaare ____ Rakhwaare"</string>
+    <string name="tum_3">Tum</string>
+    <string name="low">Low</string>
+    <string name="oil">Oil</string>
+
+    <string name="chopai_line41q4">"Ram Duwaare Tum __________"</string>
+    <string name="rakhwaare">Rakhwaare</string>
+    <string name="carpenter">Carpenter</string>
+    <string name="argentina">Argentina</string>
+
+    // CHOPAI LINE N0 42.
+
+    <string name="chopai_line42q1">"____ Na Aagya Binu Paisaare"</string>
+    <string name="hot">Hot</string>
+    <string name="nap">Nap</string>
+    <string name="oak">Oak</string>
+
+    <string name="chopai_line42q2">"Hot ___ Aagya Binu Paisaare"</string>
+    <string name="na">Na</string>
+    <string name="ni">Ni</string>
+    <string name="co">Co</string>
+
+    <string name="chopai_line42q3">"Hot Na ______ Binu Paisaare"</string>
+    <string name="aagya">Aagya</string>
+    <string name="image">Image</string>
+    <string name="jewel">Jewel</string>
+
+    <string name="chopai_line42q4">"Hot Na Aagya _____ Paisaare"</string>
+    <string name="binu">Binu</string>
+    <string name="mesh">Mesh</string>
+    <string name="nail">Nail</string>
+
+    <string name="chopai_line42q5">"Hot Na Aagya Binu _________"</string>
+    <string name="paisaare">Paisaare</string>
+    <string name="portugal">Portugal</string>
+    <string name="zimbabwe">Zimbabwe</string>
+
+    // CHOPAI LINE N0 43.
+
+    <string name="chopai_line43q1">"____ Sukh Lahei Tumhari Sarna"</string>
+    <string name="sab_2">Sab</string>
+    <string name="one">One</string>
+    <string name="pan">Pan</string>
+
+    <string name="chopai_line43q2">"Sab _____ Lahei Tumhari Sarna"</string>
+    <string name="sukh">Sukh</string>
+    <string name="name">Name</string>
+    <string name="palm">Palm</string>
+
+    <string name="chopai_line43q3">"Sab Sukh ______ Tumhari Sarna"</string>
+    <string name="lahei">Lahei</string>
+    <string name="large">Large</string>
+    <string name="small">Small</string>
+
+    <string name="chopai_line43q4">"Sab Sukh Lahei ________ Sarna"</string>
+    <string name="tumhari">Tumhari</string>
+    <string name="kingdom">Kingdom</string>
+    <string name="laundry">Laundry</string>
+
+    <string name="chopai_line43q5">"Sab Sukh Lahei Tumhari ______"</string>
+    <string name="sarna">Sarna</string>
+    <string name="magma">Magma</string>
+    <string name="oasis">Oasis</string>
+
+    // CHOPAI LINE N0 44.
+
+    <string name="chopai_line44q1">"____ Rakshak Kaahu Ko Darnaa"</string>
+    <string name="tum_4">Tum</string>
+    <string name="owl">Owl</string>
+    <string name="pet">Pet</string>
+
+    <string name="chopai_line44q2">"Tum ________ Kaahu Ko Darnaa"</string>
+    <string name="rakshak">Rakshak</string>
+    <string name="lecture">Lecture</string>
+    <string name="magnify">Magnify</string>
+
+    <string name="chopai_line44q3">"Tum Rakshak ______ Ko Darnaa"</string>
+    <string name="kaahu">Kaahu</string>
+    <string name="odour">Odour</string>
+    <string name="pasta">Pasta</string>
+
+    <string name="chopai_line44q4">"Tum Rakshak Kaahu ___ Darnaa"</string>
+    <string name="ko_3">Ko</string>
+    <string name="ty">Ty</string>
+    <string name="cu">Cu</string>
+
+    <string name="chopai_line44q5">"Tum Rakshak Kaahu Ko _______"</string>
+    <string name="darnaa">Darnaa</string>
+    <string name="launch">Launch</string>
+    <string name="matrix">Matrix</string>
+
+    // CHOPAI LINE N0 45.
+
+    <string name="chopai_line45q1">"______ Tej Samhaaro Aapei"</string>
+    <string name="aapan">Aapan</string>
+    <string name="plane">Plane</string>
+    <string name="remix">Remix</string>
+
+    <string name="chopai_line45q2">"Aapan ____ Samhaaro Aapei"</string>
+    <string name="tej_2">Tej</string>
+    <string name="rig">Rig</string>
+    <string name="shy">Shy</string>
+
+    <string name="chopai_line45q3">"Aapan Tej _________ Aapei"</string>
+    <string name="samhaaro">Samhaaro</string>
+    <string name="thailand">Thailand</string>
+    <string name="mongolia">Mongolia</string>
+
+    <string name="chopai_line45q4">"Aapan Tej Samhaaro ______"</string>
+    <string name="aapei">Aapei</string>
+    <string name="robot">Robot</string>
+    <string name="sharp">Sharp</string>
+
+    // CHOPAI LINE N0 46.
+
+    <string name="chopai_line46q1">"______ Lok Haankte Kaanpei"</string>
+    <string name="teeno">Teeno</string>
+    <string name="snail">Snail</string>
+    <string name="tease">Tease</string>
+
+    <string name="chopai_line46q2">"Teeno ____ Haankte Kaanpei"</string>
+    <string name="lok_2">Lok</string>
+    <string name="sea">Sea</string>
+    <string name="toy">Toy</string>
+
+    <string name="chopai_line46q3">"Teeno Lok ________ Kaanpei"</string>
+    <string name="haankte">Haankte</string>
+    <string name="mascara">Mascara</string>
+    <string name="narrate">Narrate</string>
+
+    <string name="chopai_line46q4">"Teeno Lok Haankte ________"</string>
+    <string name="kaanpei">Kaanpei</string>
+    <string name="natural">Natural</string>
+    <string name="outlook">Outlook</string>
+
+    // CHOPAI LINE N0 47.
+
+    <string name="chopai_line47q1">"______ Pishaach Nikat Nahi Aavei"</string>
+    <string name="bhoot">Bhoot</string>
+    <string name="teeth">Teeth</string>
+    <string name="union">Union</string>
+
+    <string name="chopai_line47q2">"Bhoot _________ Nikat Nahi Aavei"</string>
+    <string name="pishaach">Pishaach</string>
+    <string name="scotland">Scotland</string>
+    <string name="tanzania">Tanzania</string>
+
+    <string name="chopai_line47q3">"Bhoot Pishaach ______ Nahi Aavei"</string>
+    <string name="nikat">Nikat</string>
+    <string name="twist">Twist</string>
+    <string name="vault">Vault</string>
+
+    <string name="chopai_line47q4">"Bhoot Pishaach Nikat _____ Aavei"</string>
+    <string name="nahi">Nahi</string>
+    <string name="peak">Peak</string>
+    <string name="rack">Rack</string>
+
+    <string name="chopai_line47q5">"Bhoot Pishaach Nikat Nahi ______"</string>
+    <string name="aavei">Aavei</string>
+    <string name="vapor">Vapor</string>
+    <string name="watch">Watch</string>
+
+    // CHOPAI LINE N0 48.
+
+    <string name="chopai_line48q1">"________ Jab Naam Sunavei"</string>
+    <string name="mahavir">Mahavir</string>
+    <string name="pancake">Pancake</string>
+    <string name="quantum">Quantum</string>
+
+    <string name="chopai_line48q2">"Mahavir ____ Naam Sunavei"</string>
+    <string name="jab">Jab</string>
+    <string name="top">Top</string>
+    <string name="use">Use</string>
+
+    <string name="chopai_line48q3">"Mahavir Jab _____ Sunavei"</string>
+    <string name="naam">Naam</string>
+    <string name="rear">Rear</string>
+    <string name="sand">Sand</string>
+
+    <string name="chopai_line48q4">"Mahavir Jab Naam ________"</string>
+    <string name="sunavei">Sunavei</string>
+    <string name="pendent">Pendent</string>
+    <string name="radiate">Radiate</string>
+
+    // CHOPAI LINE N0 49.
+
+    <string name="chopai_line49q1">"_______ Rog Hare Sab Peera"</string>
+    <string name="naasei">Naasei</string>
+    <string name="mentor">Mentor</string>
+    <string name="needle">Needle</string>
+
+    <string name="chopai_line49q2">"Naasei ____ Hare Sab Peera"</string>
+    <string name="rog">Rog</string>
+    <string name="web">Web</string>
+    <string name="yes">Yes</string>
+
+    <string name="chopai_line49q3">"Naasei Rog _____ Sab Peera"</string>
+    <string name="hare">Hare</string>
+    <string name="self">Self</string>
+    <string name="thin">Thin</string>
+
+    <string name="chopai_line49q4">"Naasei Rog Hare ____ Peera"</string>
+    <string name="sab_3">Sab</string>
+    <string name="win">Win</string>
+    <string name="yen">Yen</string>
+
+    <string name="chopai_line49q5">"Naasei Rog Hare Sab ______"</string>
+    <string name="peera">Peera</string>
+    <string name="wafer">Wafer</string>
+    <string name="xerox">Xerox</string>
+
+    // CHOPAI LINE N0 50.
+
+    <string name="chopai_line50q1">"______ Nirantar Hanumat Beera"</string>
+    <string name="japat">Japat</string>
+    <string name="yummy">Yummy</string>
+    <string name="abort">Abort</string>
+
+    <string name="chopai_line50q2">"Japat _________ Hanumat Beera"</string>
+    <string name="nirantar">Nirantar</string>
+    <string name="bulgaria">Bulgaria</string>
+    <string name="colombia">Colombia</string>
+
+    <string name="chopai_line50q3">"Japat Nirantar ________ Beera"</string>
+    <string name="hanumat">Hanumat</string>
+    <string name="realise">Realise</string>
+    <string name="sawmill">Sawmill</string>
+
+    <string name="chopai_line50q4">"Japat Nirantar Hanumat ______"</string>
+    <string name="beera">Beera</string>
+    <string name="adorn">Adorn</string>
+    <string name="board">Board</string>
+
+    // CHOPAI LINE N0 51.
+
+    <string name="chopai_line51q1">"_______ Te Hanuman Chhudaavei"</string>
+    <string name="sankat">Sankat</string>
+    <string name="bamboo">Bamboo</string>
+    <string name="nature">Nature</string>
+
+    <string name="chopai_line51q2">"Sankat ___ Hanuman Chhudaavei"</string>
+    <string name="te_3">Te</string>
+    <string name="de">De</string>
+    <string name="of">Of</string>
+
+    <string name="chopai_line51q3">"Sankat Te ________ Chhudaavei"</string>
+    <string name="hanuman_2">Hanuman</string>
+    <string name="secular">Secular</string>
+    <string name="thorium">Thorium</string>
+
+    <string name="chopai_line51q4">"Sankat Te Hanuman ___________"</string>
+    <string name="chhudaavei">Chhudaavei</string>
+    <string name="seychelles">Seychelles</string>
+    <string name="tajikistan">Tajikistan</string>
+
+    // CHOPAI LINE N0 52.
+
+    <string name="chopai_line52q1">"_____ Kram Vachan Dhyan Jo Laavei"</string>
+    <string name="mann_3">Mann</string>
+    <string name="tool">Tool</string>
+    <string name="visa">Visa</string>
+
+    <string name="chopai_line52q2">"Mann _____ Vachan Dhyan Jo Laavei"</string>
+    <string name="kram">Kram</string>
+    <string name="warm">Warm</string>
+    <string name="zoom">Zoom</string>
+
+    <string name="chopai_line52q3">"Mann Kram _______ Dhyan Jo Laavei"</string>
+    <string name="vachan">Vachan</string>
+    <string name="narrow">Narrow</string>
+    <string name="object">Object</string>
+
+    <string name="chopai_line52q4">"Mann Kram Vachan ______ Jo Laavei"</string>
+    <string name="dhyan">Dhyan</string>
+    <string name="bread">Bread</string>
+    <string name="cliff">Cliff</string>
+
+    <string name="chopai_line52q5">"Mann Kram Vachan Dhyan ___ Laavei"</string>
+    <string name="jo_3">Jo</string>
+    <string name="ae">Ae</string>
+    <string name="fi">Fi</string>
+
+    <string name="chopai_line52q6">"Mann Kram Vachan Dhyan Jo _______"</string>
+    <string name="laavei">Laavei</string>
+    <string name="oxford">Oxford</string>
+    <string name="pallet">Pallet</string>
+
+    // CHOPAI LINE N0 53.
+
+    <string name="chopai_line53q1">"____ Par Ram Tapasvi Raja"</string>
+    <string name="sab_4">Sab</string>
+    <string name="ace">Ace</string>
+    <string name="bed">Bed</string>
+
+    <string name="chopai_line53q2">"Sab ____ Ram Tapasvi Raja"</string>
+    <string name="par_2">Par</string>
+    <string name="cap">Cap</string>
+    <string name="dew">Dew</string>
+
+    <string name="chopai_line53q3">"Sab Par ____ Tapasvi Raja"</string>
+    <string name="ram_5">Ram</string>
+    <string name="era">Era</string>
+    <string name="fog">Fog</string>
+
+    <string name="chopai_line53q4">"Sab Par Ram ________ Raja"</string>
+    <string name="tapasvi">Tapasvi</string>
+    <string name="adapter">Adapter</string>
+    <string name="balcony">Balcony</string>
+
+    <string name="chopai_line53q5">"Sab Par Ram Tapasvi _____"</string>
+    <string name="raja">Raja</string>
+    <string name="atom">Atom</string>
+    <string name="beam">Beam</string>
+
+    // CHOPAI LINE N0 54.
+
+    <string name="chopai_line54q1">"______ Kaaj Sakal Tum Saaja"</string>
+    <string name="tinke">Tinke</string>
+    <string name="arrow">Arrow</string>
+    <string name="cargo">Cargo</string>
+
+    <string name="chopai_line54q2">"Tinke _____ Sakal Tum Saaja"</string>
+    <string name="kaaj_4">Kaaj</string>
+    <string name="belt">Belt</string>
+    <string name="exit">Exit</string>
+
+    <string name="chopai_line54q3">"Tinke Kaaj ______ Tum Saaja"</string>
+    <string name="sakal">Sakal</string>
+    <string name="depth">Depth</string>
+    <string name="entry">Entry</string>
+
+    <string name="chopai_line54q4">"Tinke Kaaj Sakal ____ Saaja"</string>
+    <string name="tum_5">Tum</string>
+    <string name="few">Few</string>
+    <string name="fry">Fry</string>
+
+    <string name="chopai_line54q5">"Tinke Kaaj Sakal Tum ______"</string>
+    <string name="saaja">Saaja</string>
+    <string name="extra">Extra</string>
+    <string name="flame">Flame</string>
+
+    // CHOPAI LINE N0 55.
+
+    <string name="chopai_line55q1">"____ Manorath Jo Koi Laavei"</string>
+    <string name="aur_2">Aur</string>
+    <string name="gas">Gas</string>
+    <string name="hub">Hub</string>
+
+    <string name="chopai_line55q2">"Aur _________ Jo Koi Laavei"</string>
+    <string name="manorath">Manorath</string>
+    <string name="accurate">Accurate</string>
+    <string name="birdseye">Birdseye</string>
+
+    <string name="chopai_line55q3">"Aur Manorath ___ Koi Laavei"</string>
+    <string name="jo_4">Jo</string>
+    <string name="ji">Ji</string>
+    <string name="qu">Qu</string>
+
+    <string name="chopai_line55q4">"Aur Manorath Jo ____ Laavei"</string>
+    <string name="koi">Koi</string>
+    <string name="ice">Ice</string>
+    <string name="jaw">Jaw</string>
+
+    <string name="chopai_line55q5">"Aur Manorath Jo Koi _______"</string>
+    <string name="laavei_2">Laavei</string>
+    <string name="admire">Admire</string>
+    <string name="beaver">Beaver</string>
+
+    // CHOPAI LINE N0 56.
+
+    <string name="chopai_line56q1">"____ Amit Jeevan Phal Paave"</string>
+    <string name="soi">Soi</string>
+    <string name="job">Job</string>
+    <string name="kin">Kin</string>
+
+    <string name="chopai_line56q2">"Soi _____ Jeevan Phal Paave"</string>
+    <string name="amit">Amit</string>
+    <string name="fire">Fire</string>
+    <string name="gama">Gama</string>
+
+    <string name="chopai_line56q3">"Soi Amit _______ Phal Paave"</string>
+    <string name="jeevan">Jeevan</string>
+    <string name="borrow">Borrow</string>
+    <string name="carton">Carton</string>
+
+    <string name="chopai_line56q4">"Soi Amit Jeevan _____ Paave"</string>
+    <string name="phal_3">Phal</string>
+    <string name="ghee">Ghee</string>
+    <string name="jeep">Jeep</string>
+
+    <string name="chopai_line56q5">"Soi Amit Jeevan Phal ______"</string>
+    <string name="paave">Paave</string>
+    <string name="flick">Flick</string>
+    <string name="gauge">Gauge</string>
+
+    // CHOPAI LINE N0 57.
+
+    <string name="chopai_line57q1">"________ Jug Partap Tumhara"</string>
+    <string name="chaaron">Chaaron</string>
+    <string name="barrage">Barrage</string>
+    <string name="centaur">Centaur</string>
+
+    <string name="chopai_line57q2">"Chaaron ____ Partap Tumhara"</string>
+    <string name="jug">Jug</string>
+    <string name="mug">Mug</string>
+    <string name="jog">Jog</string>
+
+    <string name="chopai_line57q3">"Chaaron Jug _______ Tumhara"</string>
+    <string name="partap">Partap</string>
+    <string name="cheese">Cheese</string>
+    <string name="format">Format</string>
+
+    <string name="chopai_line57q4">"Chaaron Jug Partap ________"</string>
+    <string name="tumhara">Tumhara</string>
+    <string name="basmati">Basmati</string>
+    <string name="descent">Descent</string>
+
+    // CHOPAI LINE N0 58.
+
+    <string name="chopai_line58q1">"____ Parsiddha Jagat Ujiyara"</string>
+    <string name="hai">Hai</string>
+    <string name="joy">Joy</string>
+    <string name="leg">Leg</string>
+
+    <string name="chopai_line58q2">"Hai __________ Jagat Ujiyara"</string>
+    <string name="parsiddha">Parsiddha</string>
+    <string name="australia">Australia</string>
+    <string name="mauritius">Mauritius</string>
+
+    <string name="chopai_line58q3">"Hai Parsiddha ______ Ujiyara"</string>
+    <string name="jagat_2">Jagat</string>
+    <string name="graph">Graph</string>
+    <string name="happy">Happy</string>
+
+    <string name="chopai_line58q4">"Hai Parsiddha Jagat ________"</string>
+    <string name="ujiyara">Ujiyara</string>
+    <string name="eardrum">Eardrum</string>
+    <string name="ferment">Ferment</string>
+
+    // CHOPAI LINE N0 59.
+
+    <string name="chopai_line59q1">"______ Sant Ke Tum Rakhvaare"</string>
+    <string name="sadhu">Sadhu</string>
+    <string name="heavy">Heavy</string>
+    <string name="inbox">Inbox</string>
+
+    <string name="chopai_line59q2">"Sadhu _____ Ke Tum Rakhvaare"</string>
+    <string name="sant">Sant</string>
+    <string name="knee">Knee</string>
+    <string name="limo">Limo</string>
+
+    <string name="chopai_line59q3">"Sadhu Sant ___ Tum Rakhvaare"</string>
+    <string name="ke_4">Ke</string>
+    <string name="nu">Nu</string>
+    <string name="oe">Oe</string>
+
+    <string name="chopai_line59q4">"Sadhu Sant Ke ____ Rakhvaare"</string>
+    <string name="tum_6">Tum</string>
+    <string name="lit">Lit</string>
+    <string name="met">Met</string>
+
+    <string name="chopai_line59q5">"Sadhu Sant Ke Tum __________"</string>
+    <string name="rakhvaare">Rakhvaare</string>
+    <string name="gibraltar">Gibraltar</string>
+    <string name="guatemala">Guatemala</string>
+
+    // CHOPAI LINE N0 60.
+
+    <string name="chopai_line60q1">"_____ Nikandan Ram Dulaare"</string>
+    <string name="asur_2">Asur</string>
+    <string name="loop">Loop</string>
+    <string name="mart">Mart</string>
+
+    <string name="chopai_line60q2">"Asur _________ Ram Dulaare"</string>
+    <string name="nikandan">Nikandan</string>
+    <string name="broccoli">Broccoli</string>
+    <string name="cardamom">Cardamom</string>
+
+    <string name="chopai_line60q3">"Asur Nikandan ____ Dulaare"</string>
+    <string name="ram_6">Ram</string>
+    <string name="ran">Ran</string>
+    <string name="pay">Pay</string>
+
+    <string name="chopai_line60q4">"Asur Nikandan Ram ________"</string>
+    <string name="dulaare">Dulaare</string>
+    <string name="forsake">Forsake</string>
+    <string name="gesture">Gesture</string>
+
+    // CHOPAI LINE N0 61.
+
+    <string name="chopai_line61q1">"______ Siddhi Nau Nidhi Ke Data"</string>
+    <string name="ashta">Ashta</string>
+    <string name="judge">Judge</string>
+    <string name="known">Known</string>
+
+    <string name="chopai_line61q2">"Ashta _______ Nau Nidhi Ke Data"</string>
+    <string name="siddhi">Siddhi</string>
+    <string name="garage">Garage</string>
+    <string name="geneva">Geneva</string>
+
+    <string name="chopai_line61q3">"Ashta Siddhi ____ Nidhi Ke Data"</string>
+    <string name="nau">Nau</string>
+    <string name="red">Red</string>
+    <string name="rod">Rod</string>
+
+    <string name="chopai_line61q4">"Ashta Siddhi Nau ______ Ke Data"</string>
+    <string name="nidhi">Nidhi</string>
+    <string name="knock">Knock</string>
+    <string name="laser">Laser</string>
+
+    <string name="chopai_line61q5">"Ashta Siddhi Nau Nidhi ___ Data"</string>
+    <string name="ke_5">Ke</string>
+    <string name="fu">Fu</string>
+    <string name="gi">Gi</string>
+
+    <string name="chopai_line61q6">"Ashta Siddhi Nau Nidhi Ke _____"</string>
+    <string name="data">Data</string>
+    <string name="mark">Mark</string>
+    <string name="noun">Noun</string>
+
+    // CHOPAI LINE N0 62.
+
+    <string name="chopai_line62q1">"____ Bar Deen Janki Mata"</string>
+    <string name="asa_2">Asa</string>
+    <string name="rug">Rug</string>
+    <string name="map">Map</string>
+
+    <string name="chopai_line62q2">"Asa ____ Deen Janki Mata"</string>
+    <string name="bar">Bar</string>
+    <string name="sir">Sir</string>
+    <string name="tag">Tag</string>
+
+    <string name="chopai_line62q3">"Asa Bar _____ Janki Mata"</string>
+    <string name="deen">Deen</string>
+    <string name="paid">Paid</string>
+    <string name="rice">Rice</string>
+
+    <string name="chopai_line62q4">"Asa Bar Deen ______ Mata"</string>
+    <string name="janki">Janki</string>
+    <string name="latch">Latch</string>
+    <string name="media">Media</string>
+
+    <string name="chopai_line62q5">"Asa Bar Deen Janki _____"</string>
+    <string name="mata">Mata</string>
+    <string name="read">Read</string>
+    <string name="size">Size</string>
+
+    // CHOPAI LINE N0 63.
+
+    <string name="chopai_line63q1">"____ Rasayan Tumhare Pasa"</string>
+    <string name="ram_7">Ram</string>
+    <string name="sky">Sky</string>
+    <string name="sun">Sun</string>
+
+    <string name="chopai_line63q2">"Ram ________ Tumhare Pasa"</string>
+    <string name="rasayan">Rasayan</string>
+    <string name="grocery">Grocery</string>
+    <string name="harbour">Harbour</string>
+
+    <string name="chopai_line63q3">"Ram Rasayan ________ Pasa"</string>
+    <string name="tumhare_2">Tumhare</string>
+    <string name="helpful">Helpful</string>
+    <string name="belgium">Belgium</string>
+
+    <string name="chopai_line63q4">"Ram Rasayan Tumhare _____"</string>
+    <string name="pasa">Pasa</string>
+    <string name="soak">Soak</string>
+    <string name="tour">Tour</string>
+
+    // CHOPAI LINE N0 64.
+
+    <string name="chopai_line64q1">"______ Raho Raghupati Ke Dasa"</string>
+    <string name="sadaa">Sadaa</string>
+    <string name="merge">Merge</string>
+    <string name="noose">Noose</string>
+
+    <string name="chopai_line64q2">"Sadaa _____ Raghupati Ke Dasa"</string>
+    <string name="raho">Raho</string>
+    <string name="tram">Tram</string>
+    <string name="urge">Urge</string>
+
+    <string name="chopai_line64q3">"Sadaa Raho __________ Ke Dasa"</string>
+    <string name="raghupati_2">Raghupati</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="palestine">Palestine</string>
+
+    <string name="chopai_line64q4">"Sadaa Raho Raghupati ___ Dasa"</string>
+    <string name="ke_6">Ke</string>
+    <string name="ly">Ly</string>
+    <string name="no">No</string>
+
+    <string name="chopai_line64q5">"Sadaa Raho Raghupati Ke _____"</string>
+    <string name="dasa">Dasa</string>
+    <string name="teak">Teak</string>
+    <string name="wood">Wood</string>
+
+    // CHOPAI LINE N0 65.
+
+    <string name="chopai_line65q1">"________ Bhajan Ram Ko Paavei"</string>
+    <string name="tumhare_3">Tumhare</string>
+    <string name="holiday">Holiday</string>
+    <string name="jackpot">Jackpot</string>
+
+    <string name="chopai_line65q2">"Tumhare _______ Ram Ko Paavei"</string>
+    <string name="bhajan">Bhajan</string>
+    <string name="russia">Russia</string>
+    <string name="europe">Europe</string>
+
+    <string name="chopai_line65q3">"Tumhare Bhajan ____ Ko Paavei"</string>
+    <string name="ram_8">Ram</string>
+    <string name="thy">Thy</string>
+    <string name="way">Way</string>
+
+    <string name="chopai_line65q4">"Tumhare Bhajan Ram ___ Paavei"</string>
+    <string name="ko_4">Ko</string>
+    <string name="bi">Bi</string>
+    <string name="mu">Mu</string>
+
+    <string name="chopai_line65q5">"Tumhare Bhajan Ram Ko _______"</string>
+    <string name="paavei">Paavei</string>
+    <string name="genius">Genius</string>
+    <string name="hamlet">Hamlet</string>
+
+    // CHOPAI LINE N0 66.
+
+    <string name="chopai_line66q1">"______ Janam Ke Dukh Bisraavei"</string>
+    <string name="janam">Janam</string>
+    <string name="orbit">Orbit</string>
+    <string name="paste">Paste</string>
+
+    <string name="chopai_line66q2">"Janam ______ Ke Dukh Bisraavei"</string>
+    <string name="janam_2">Janam</string>
+    <string name="purse">Purse</string>
+    <string name="quiet">Quiet</string>
+
+    <string name="chopai_line66q3">"Janam Janam ___ Dukh Bisraavei"</string>
+    <string name="ke_7">Ke</string>
+    <string name="qi">Qi</string>
+    <string name="ry">Ry</string>
+
+    <string name="chopai_line66q4">"Janam Janam Ke _____ Bisraavei"</string>
+    <string name="dukh">Dukh</string>
+    <string name="wind">Wind</string>
+    <string name="yarn">Yarn</string>
+
+    <string name="chopai_line66q5">"Janam Janam Ke Dukh __________"</string>
+    <string name="bisraavei">Bisraavei</string>
+    <string name="singapore">Singapore</string>
+    <string name="nicaragua">Nicaragua</string>
+
+    // CHOPAI LINE N0 67.
+
+    <string name="chopai_line67q1">"____ Kaaal Raghubar Pur Jaai"</string>
+    <string name="anta">Anta</string>
+    <string name="wing">Wing</string>
+    <string name="yoke">Yoke</string>
+
+    <string name="chopai_line67q2">"Anta ______ Raghubar Pur Jaai"</string>
+    <string name="kaaal">Kaaal</string>
+    <string name="quote">Quote</string>
+    <string name="rapid">Rapid</string>
+
+    <string name="chopai_line67q3">"Anta Kaaal _________ Pur Jaai"</string>
+    <string name="raghubar_2">Raghubar</string>
+    <string name="carriage">Carriage</string>
+    <string name="divinity">Divinity</string>
+
+    <string name="chopai_line67q4">"Anta Kaaal Raghubar ____ Jaai"</string>
+    <string name="pur">Pur</string>
+    <string name="wet">Wet</string>
+    <string name="ago">Ago</string>
+
+    <string name="chopai_line67q5">"Anta Kaaal Raghubar Pur _____"</string>
+    <string name="jaai">Jaai</string>
+    <string name="wire">Wire</string>
+    <string name="year">Year</string>
+
+    // CHOPAI LINE N0 68.
+
+    <string name="chopai_line68q1">"______ Janm Hari Bhakt Kahaai"</string>
+    <string name="jahan">Jahan</string>
+    <string name="ratio">Ratio</string>
+    <string name="scope">Scope</string>
+
+    <string name="chopai_line68q2">"Jahan _____ Hari Bhakt Kahaai"</string>
+    <string name="janm">Janm</string>
+    <string name="wrap">Wrap</string>
+    <string name="zone">Zone</string>
+
+    <string name="chopai_line68q3">"Jahan Janm _____ Bhakt Kahaai"</string>
+    <string name="hari">Hari</string>
+    <string name="hero">Hero</string>
+    <string name="axis">Axis</string>
+
+    <string name="chopai_line68q4">"Jahan Janm Hari ______ Kahaai"</string>
+    <string name="bhakt">Bhakt</string>
+    <string name="sepoy">Sepoy</string>
+    <string name="tempt">Tempt</string>
+
+    <string name="chopai_line68q5">"Jahan Janm Hari Bhakt _______"</string>
+    <string name="kahaai">Kahaai</string>
+    <string name="hammer">Hammer</string>
+    <string name="intent">Intent</string>
+
+    // CHOPAI LINE N0 69.
+
+    <string name="chopai_line69q1">"____ Devta Chitt Na Dharai"</string>
+    <string name="aur_3">Aur</string>
+    <string name="aid">Aid</string>
+    <string name="bag">Bag</string>
+
+    <string name="chopai_line69q2">"Aur ______ Chitt Na Dharai"</string>
+    <string name="devta">Devta</string>
+    <string name="taste">Taste</string>
+    <string name="unite">Unite</string>
+
+    <string name="chopai_line69q3">"Aur Devta ______ Na Dharai"</string>
+    <string name="chitt">Chitt</string>
+    <string name="water">Water</string>
+    <string name="arena">Arena</string>
+
+    <string name="chopai_line69q4">"Aur Devta Chitt ___ Dharai"</string>
+    <string name="na_2">Na</string>
+    <string name="hi">Hi</string>
+    <string name="me">Me</string>
+
+    <string name="chopai_line69q5">"Aur Devta Chitt Na _______"</string>
+    <string name="dharai">Dharai</string>
+    <string name="jigsaw">Jigsaw</string>
+    <string name="labour">Labour</string>
+
+    // CHOPAI LINE N0 70.
+
+    <string name="chopai_line70q1">"________ Sei Sarva Sukh Karai"</string>
+    <string name="hanumat_2">Hanumat</string>
+    <string name="jodhpur">Jodhpur</string>
+    <string name="kampala">Kampala</string>
+
+    <string name="chopai_line70q2">"Hanumat ____ Sarva Sukh Karai"</string>
+    <string name="sei">Sei</string>
+    <string name="axe">Axe</string>
+    <string name="big">Big</string>
+
+    <string name="chopai_line70q3">"Hanumat Sei ______ Sukh Karai"</string>
+    <string name="sarva">Sarva</string>
+    <string name="aroma">Aroma</string>
+    <string name="babul">Babul</string>
+
+    <string name="chopai_line70q4">"Hanumat Sei Sarva _____ Karai"</string>
+    <string name="sukh_2">Sukh</string>
+    <string name="bait">Bait</string>
+    <string name="camp">Camp</string>
+
+    <string name="chopai_line70q5">"Hanumat Sei Sarva Sukh ______"</string>
+    <string name="karai">Karai</string>
+    <string name="banjo">Banjo</string>
+    <string name="cadet">Cadet</string>
+
+    // CHOPAI LINE N0 71.
+
+    <string name="chopai_line71q1">"_______ Katei Mitei Sab Peera"</string>
+    <string name="sankat_2">Sankat</string>
+    <string name="laptop">Laptop</string>
+    <string name="magnet">Magnet</string>
+
+    <string name="chopai_line71q2">"Sankat ______ Mitei Sab Peera"</string>
+    <string name="katei">Katei</string>
+    <string name="cause">Cause</string>
+    <string name="dream">Dream</string>
+
+    <string name="chopai_line71q3">"Sankat Katei ______ Sab Peera"</string>
+    <string name="mitei">Mitei</string>
+    <string name="eases">Eases</string>
+    <string name="fixed">Fixed</string>
+
+    <string name="chopai_line71q4">"Sankat Katei Mitei ____ Peera"</string>
+    <string name="sab_5">Sab</string>
+    <string name="bid">Bid</string>
+    <string name="cot">Cot</string>
+
+    <string name="chopai_line71q5">"Sankat Katei Mitei Sab ______"</string>
+    <string name="peera_2">Peera</string>
+    <string name="flood">Flood</string>
+    <string name="green">Green</string>
+
+    // CHOPAI LINE N0 72.
+
+    <string name="chopai_line72q1">"___ Sumirei Hanumat Bal Beera"</string>
+    <string name="jo_5">Jo</string>
+    <string name="wi">Wi</string>
+    <string name="jy">Jy</string>
+
+    <string name="chopai_line72q2">"Jo ________ Hanumat Bal Beera"</string>
+    <string name="sumirei">Sumirei</string>
+    <string name="lighten">Lighten</string>
+    <string name="martial">Martial</string>
+
+    <string name="chopai_line72q3">"Jo Sumirei ________ Bal Beera"</string>
+    <string name="hanumat_3">Hanumat</string>
+    <string name="mileage">Mileage</string>
+    <string name="network">Network</string>
+
+    <string name="chopai_line72q4">"Jo Sumirei Hanumat ____ Beera"</string>
+    <string name="bal_3">Bal</string>
+    <string name="cue">Cue</string>
+    <string name="dye">Dye</string>
+
+    <string name="chopai_line72q5">"Jo Sumirei Hanumat Bal ______"</string>
+    <string name="beera_2">Beera</string>
+    <string name="gross">Gross</string>
+    <string name="habit">Habit</string>
+
+    // CHOPAI LINE N0 73.
+
+    <string name="chopai_line73q1">"____ Jai Jai Hanuman Gosai"</string>
+    <string name="jai_3">Jai</string>
+    <string name="alp">Alp</string>
+    <string name="fax">Fax</string>
+
+    <string name="chopai_line73q2">"Jai ____ Jai Hanuman Gosai"</string>
+    <string name="jai_4">Jai</string>
+    <string name="fix">Fix</string>
+    <string name="gel">Gel</string>
+
+    <string name="chopai_line73q3">"Jai Jai ____ Hanuman Gosai"</string>
+    <string name="jai_5">Jai</string>
+    <string name="gum">Gum</string>
+    <string name="ink">Ink</string>
+
+    <string name="chopai_line73q4">"Jai Jai Jai ________ Gosai"</string>
+    <string name="hanuman_3">Hanuman</string>
+    <string name="admiral">Admiral</string>
+    <string name="banquet">Banquet</string>
+
+    <string name="chopai_line73q5">"Jai Jai Jai Hanuman ______"</string>
+    <string name="gosai">Gosai</string>
+    <string name="agent">Agent</string>
+    <string name="birth">Birth</string>
+
+    // CHOPAI LINE N0 74.
+
+    <string name="chopai_line74q1">"______ Karahu Gurudev Ki Naai"</string>
+    <string name="kripa">Kripa</string>
+    <string name="bound">Bound</string>
+    <string name="carat">Carat</string>
+
+    <string name="chopai_line74q2">"Kripa _______ Gurudev Ki Naai"</string>
+    <string name="karahu">Karahu</string>
+    <string name="afghan">Afghan</string>
+    <string name="bright">Bright</string>
+
+    <string name="chopai_line74q3">"Kripa Karahu ________ Ki Naai"</string>
+    <string name="gurudev">Gurudev</string>
+    <string name="billion">Billion</string>
+    <string name="capital">Capital</string>
+
+    <string name="chopai_line74q4">"Kripa Karahu Gurudev ___ Naai"</string>
+    <string name="ki">Ki</string>
+    <string name="bo">Bo</string>
+    <string name="ju">Ju</string>
+
+    <string name="chopai_line74q5">"Kripa Karahu Gurudev Ki _____"</string>
+    <string name="naai">Naai</string>
+    <string name="axle">Axle</string>
+    <string name="barn">Barn</string>
+
+    // CHOPAI LINE N0 75.
+
+    <string name="chopai_line75q1">"___ Sat Baar Paath Kar Koi"</string>
+    <string name="jo_6">Jo</string>
+    <string name="it">It</string>
+    <string name="si">Si</string>
+
+    <string name="chopai_line75q2">"Jo ____ Baar Paath Kar Koi"</string>
+    <string name="sat">Sat</string>
+    <string name="jar">Jar</string>
+    <string name="law">Law</string>
+
+    <string name="chopai_line75q3">"Jo Sat _____ Paath Kar Koi"</string>
+    <string name="baar">Baar</string>
+    <string name="best">Best</string>
+    <string name="coin">Coin</string>
+
+    <string name="chopai_line75q4">"Jo Sat Baar ______ Kar Koi"</string>
+    <string name="paath">Paath</string>
+    <string name="brave">Brave</string>
+    <string name="chain">Chain</string>
+
+    <string name="chopai_line75q5">"Jo Sat Baar Paath ____ Koi"</string>
+    <string name="kar">Kar</string>
+    <string name="men">Men</string>
+    <string name="own">Own</string>
+
+    <string name="chopai_line75q6">"Jo Sat Baar Paath Kar ____"</string>
+    <string name="koi_2">Koi</string>
+    <string name="paw">Paw</string>
+    <string name="rib">Rib</string>
+
+    // CHOPAI LINE N0 76.
+
+    <string name="chopai_line76q1">"_________ Bandi Mahasukh Hoi"</string>
+    <string name="chhutahi">Chhutahi</string>
+    <string name="activate">Activate</string>
+    <string name="caffeine">Caffeine</string>
+
+    <string name="chopai_line76q2">"Chhutahi ______ Mahasukh Hoi"</string>
+    <string name="bandi">Bandi</string>
+    <string name="chair">Chair</string>
+    <string name="debit">Debit</string>
+
+    <string name="chopai_line76q3">"Chhutahi Bandi _________ Hoi"</string>
+    <string name="mahasukh">Mahasukh</string>
+    <string name="carnival">Carnival</string>
+    <string name="daughter">Daughter</string>
+
+    <string name="chopai_line76q4">"Chhutahi Bandi Mahasukh ____"</string>
+    <string name="hoi">Hoi</string>
+    <string name="sim">Sim</string>
+    <string name="tip">Tip</string>
+
+    // CHOPAI LINE N0 77.
+
+    <string name="chopai_line77q1">"___ Yah Padhe Hanuman Chalisa"</string>
+    <string name="jo_7">Jo</string>
+    <string name="ta">Ta</string>
+    <string name="di">Di</string>
+
+    <string name="chopai_line77q2">"Jo ____ Padhe Hanuman Chalisa"</string>
+    <string name="yah">Yah</string>
+    <string name="six">Six</string>
+    <string name="tin">Tin</string>
+
+    <string name="chopai_line77q3">"Jo Yah ______ Hanuman Chalisa"</string>
+    <string name="padhe">Padhe</string>
+    <string name="depot">Depot</string>
+    <string name="ethic">Ethic</string>
+
+    <string name="chopai_line77q4">"Jo Yah Padhe ________ Chalisa"</string>
+    <string name="hanuman_4">Hanuman</string>
+    <string name="caravan">Caravan</string>
+    <string name="dictate">Dictate</string>
+
+    <string name="chopai_line77q5">"Jo Yah Padhe Hanuman ________"</string>
+    <string name="chalisa">Chalisa</string>
+    <string name="deliver">Deliver</string>
+    <string name="exotica">Exotica</string>
+
+    // CHOPAI LINE N0 78.
+
+    <string name="chopai_line78q1">"_____ Siddhi Saakhi Gaurisa"</string>
+    <string name="hoye">Hoye</string>
+    <string name="comb">Comb</string>
+    <string name="east">East</string>
+
+    <string name="chopai_line78q2">"Hoye _______ Saakhi Gaurisa"</string>
+    <string name="siddhi_2">Siddhi</string>
+    <string name="bronze">Bronze</string>
+    <string name="dental">Dental</string>
+
+    <string name="chopai_line78q3">"Hoye Siddhi _______ Gaurisa"</string>
+    <string name="saakhi">Saakhi</string>
+    <string name="dinner">Dinner</string>
+    <string name="empire">Empire</string>
+
+    <string name="chopai_line78q4">"Hoye Siddhi Saakhi ________"</string>
+    <string name="gaurisa">Gaurisa</string>
+    <string name="express">Express</string>
+    <string name="feature">Feature</string>
+
+    // CHOPAI LINE N0 79.
+
+    <string name="chopai_line79q1">"_________ Sada Hari Chera"</string>
+    <string name="tulsidas">Tulsidas</string>
+    <string name="cameroon">Cameroon</string>
+    <string name="ethiopia">Ethiopia</string>
+
+    <string name="chopai_line79q2">"Tulsidas _____ Hari Chera"</string>
+    <string name="sada">Sada</string>
+    <string name="fact">Fact</string>
+    <string name="gram">Gram</string>
+
+    <string name="chopai_line79q3">"Tulsidas Sada _____ Chera"</string>
+    <string name="hari_2">Hari</string>
+    <string name="hair">Hair</string>
+    <string name="icon">Icon</string>
+
+    <string name="chopai_line79q4">"Tulsidas Sada Hari ______"</string>
+    <string name="chera">Chera</string>
+    <string name="ether">Ether</string>
+    <string name="faith">Faith</string>
+
+    // CHOPAI LINE N0 80.
+
+    <string name="chopai_line80q1">"_______ Nath Hriday Maha Dera"</string>
+    <string name="keejei">Keejei</string>
+    <string name="exceed">Exceed</string>
+    <string name="factor">Factor</string>
+
+    <string name="chopai_line80q2">"Keejei _____ Hriday Maha Dera"</string>
+    <string name="nath">Nath</string>
+    <string name="jean">Jean</string>
+    <string name="lawn">Lawn</string>
+
+    <string name="chopai_line80q3">"Keejei Nath _______ Maha Dera"</string>
+    <string name="hriday">Hriday</string>
+    <string name="falcon">Falcon</string>
+    <string name="heater">Heater</string>
+
+    <string name="chopai_line80q4">"Keejei Nath Hriday _____ Dera"</string>
+    <string name="maha_2">Maha</string>
+    <string name="leaf">Leaf</string>
+    <string name="main">Main</string>
+
+    <string name="chopai_line80q5">"Keejei Nath Hriday Maha _____"</string>
+    <string name="dera">Dera</string>
+    <string name="mild">Mild</string>
+    <string name="next">Next</string>
+
+    // DOHA LINE N0 9.
+
+    <string name="doha_line9q1">"___________ Sankat Haran"</string>
+    <string name="pavantanay">Pavantanay</string>
+    <string name="luxembourg">Luxembourg</string>
+    <string name="montenegro">Montenegro</string>
+
+    <string name="doha_line9q2">"Pavantanay _______ Haran"</string>
+    <string name="sankat_3">Sankat</string>
+    <string name="helmet">Helmet</string>
+    <string name="inmate">Inmate</string>
+
+    <string name="doha_line9q3">"Pavantanay Sankat ______"</string>
+    <string name="haran">Haran</string>
+    <string name="faint">Faint</string>
+    <string name="glide">Glide</string>
+
+    // DOHA LINE N0 10.
+
+    <string name="doha_line10q1">"_______ Murti Roop"</string>
+    <string name="mangal">Mangal</string>
+    <string name="insure">Insure</string>
+    <string name="jacket">Jacket</string>
+
+    <string name="doha_line10q2">"Mangal ______ Roop"</string>
+    <string name="murti">Murti</string>
+    <string name="greet">Greet</string>
+    <string name="honey">Honey</string>
+
+    <string name="doha_line10q3">"Mangal Murti _____"</string>
+    <string name="roop_4">Roop</string>
+    <string name="nose">Nose</string>
+    <string name="pack">Pack</string>
+
+    // DOHA LINE N0 11.
+
+    <string name="doha_line11q1">"__________ Sita Sahit"</string>
+    <string name="ramlakhan">Ramlakhan</string>
+    <string name="greenland">Greenland</string>
+    <string name="macedonia">Macedonia</string>
+
+    <string name="doha_line11q2">"Ramlakhan _____ Sahit"</string>
+    <string name="sita_2">Sita</string>
+    <string name="head">Head</string>
+    <string name="pave">Pave</string>
+
+    <string name="doha_line11q3">"Ramlakhan Sita ______"</string>
+    <string name="sahit_2">Sahit</string>
+    <string name="inner">Inner</string>
+    <string name="knead">Knead</string>
+
+    // DOHA LINE N0 12.
+
+    <string name="doha_line12q1">"_______ Basahu Sur Bhoop"</string>
+    <string name="hriday_2">Hriday</string>
+    <string name="latest">Latest</string>
+    <string name="manila">Manila</string>
+
+    <string name="doha_line12q2">"Hriday _______ Sur Bhoop"</string>
+    <string name="basahu">Basahu</string>
+    <string name="margin">Margin</string>
+    <string name="napkin">Napkin</string>
+
+    <string name="doha_line12q3">"Hriday Basahu ____ Bhoop"</string>
+    <string name="sur">Sur</string>
+    <string name="cub">Cub</string>
+    <string name="fun">Fun</string>
+
+    <string name="doha_line12q4">"Hriday Basahu Sur ______"</string>
+    <string name="bhoop">Bhoop</string>
+    <string name="lyric">Lyric</string>
+    <string name="marry">Marry</string>
 
 </resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
