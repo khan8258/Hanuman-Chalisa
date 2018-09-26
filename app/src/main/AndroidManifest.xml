@@ -17,6 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".QuizActivity"></activity>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="[ADMOB_APP_ID: ca-app-pub-1995396020961340~6838515251]"/>
     </application>
 
 </manifest>

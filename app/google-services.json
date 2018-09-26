@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "554648516540",
+    "firebase_url": "https://hanuman-chalisa-25eb8.firebaseio.com",
+    "project_id": "hanuman-chalisa-25eb8",
+    "storage_bucket": "hanuman-chalisa-25eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554648516540:android:eca1bb1ee528040b",
+        "android_client_info": {
+          "package_name": "com.onenotate.hanumanchalisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554648516540-ms0bb73k38p67mt8e4i5ejalsrplfpj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGa1j9IbhLt7qzmsNAndcKtryR5Lhq3q8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-1995396020961340~6838515251"
+    }
+  ],
+  "configuration_version": "1"
+}
