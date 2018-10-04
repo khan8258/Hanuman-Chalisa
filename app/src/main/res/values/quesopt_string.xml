@@ -289,27 +289,27 @@
 
     // CHOPAI LINE N0 6.
 
-    <string name="chopai_line6q1">"Kumati Nivaar Sumati Ke Sangi"</string>
+    <string name="chopai_line6q1">"_______ Nivaar Sumati Ke Sangi"</string>
     <string name="kumati">Kumati</string>
     <string name="barley">Barley</string>
     <string name="sample">Sample</string>
 
-    <string name="chopai_line6q2">"Kumati Nivaar Sumati Ke Sangi"</string>
+    <string name="chopai_line6q2">"Kumati _______ Sumati Ke Sangi"</string>
     <string name="nivaar">Nivaar</string>
     <string name="little">Little</string>
     <string name="shiver">Shiver</string>
 
-    <string name="chopai_line6q3">"Kumati Nivaar Sumati Ke Sangi"</string>
+    <string name="chopai_line6q3">"Kumati Nivaar _______ Ke Sangi"</string>
     <string name="sumati">Sumati</string>
     <string name="pestle">Pestle</string>
     <string name="trivia">Trivia</string>
 
-    <string name="chopai_line6q4">"Kumati Nivaar Sumati Ke Sangi"</string>
+    <string name="chopai_line6q4">"Kumati Nivaar Sumati ___ Sangi"</string>
     <string name="ke">Ke</string>
     <string name="so">So</string>
     <string name="le">Le</string>
 
-    <string name="chopai_line6q5">"Kumati Nivaar Sumati Ke Sangi"</string>
+    <string name="chopai_line6q5">"Kumati Nivaar Sumati Ke ______"</string>
     <string name="sangi">Sangi</string>
     <string name="burst">Burst</string>
     <string name="shape">Shape</string>
@@ -577,7 +577,7 @@
     <string name="chief">Chief</string>
 
     <string name="chopai_line17q4">"Sukshma Roop Dhari _______ Dikhawa"</string>
-    <string name="siyahi">Sayahi</string>
+    <string name="siyahi">Siyahi</string>
     <string name="silica">Silica</string>
     <string name="sodium">Sodium</string>
 
